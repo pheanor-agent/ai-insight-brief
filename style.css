@@ -99,6 +99,15 @@ header nav a{display:inline-flex;align-items:center;min-height:44px;padding:4px}
 a:focus-visible,summary:focus-visible{outline:3px solid #0b5d49;outline-offset:3px;border-radius:3px}
 summary{min-height:44px;padding:8px 0}
 .meeting-room{max-width:780px}
+.topic-article{max-width:720px}
+.topic-article .evidence{margin:34px 0 24px}
+.topic-article .evidence>summary{min-height:44px;padding:10px 0}
+.topic-article .topic-review{border-top:1px solid var(--line);padding-top:18px;margin-top:28px}
+.related-reading{margin:24px 0;padding:16px 18px;border:1px solid var(--line);border-radius:10px;background:#fff;font-size:14px}
+.related-reading p{margin:8px 0 0}
+.topic-index .topic-card{margin:24px 0;padding:22px 24px;border:1px solid var(--line);border-radius:12px;background:#fff}
+.topic-index .topic-card h2{font-size:22px;line-height:1.5}
+@media(max-width:560px){.topic-index .topic-card{padding:18px 16px}}
 .meeting-status{padding:14px 16px;border:1px solid var(--line);border-radius:10px;background:#fff;color:#324842}
 .meeting-room section{margin:28px 0;padding:22px 24px;background:#fff;border:1px solid var(--line);border-radius:12px}
 .meeting-room section h2{font-size:21px;margin:0 0 8px}
