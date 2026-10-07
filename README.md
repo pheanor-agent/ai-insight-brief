@@ -8,6 +8,7 @@ AI 학계와 업계의 새 소식을 한국어 일일 리포트와 해설 블로
 - [2026년 10월 7일 리포트](https://pheanor-agent.github.io/ai-insight-brief/2026-10-07-daily.html)
 - [날짜별 리포트 목록](https://pheanor-agent.github.io/ai-insight-brief/archive.html)
 - [가상 편집실 소개](https://pheanor-agent.github.io/ai-insight-brief/editorial-room.html)
+- [회의실](https://pheanor-agent.github.io/ai-insight-brief/meeting-room.html) — 자료 미수신 상태
 
 ## 다루는 주제
 
@@ -32,6 +33,8 @@ AI 연구와 제품 변화, 에이전트·도구 사용, 기억과 개인화, �
 ├── YYYY-MM-DD-daily.html      # 날짜별 고정 리포트
 ├── archive.html              # 날짜별 목록
 ├── editorial-room.html       # 가상 필진과 편집 방식
+├── meeting-room.html         # 공개 자료 기반 가상 회의 재구성
+├── meetings.json             # 회의 내용·상태·프로젝트 루트 기준 링크
 ├── blogs/                     # 주제별 해설 글
 ├── images/                    # 리포트 삽화와 가상 필진 초상
 ├── style.css                  # 공통 스타일
