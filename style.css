@@ -115,6 +115,22 @@ summary{min-height:44px;padding:8px 0}
 .topic-article [id]{scroll-margin-top:18px}
 .topic-article p[id] a{font-size:.8em;white-space:nowrap}
 @media(max-width:560px){.article-toc ol{grid-template-columns:minmax(0,1fr)}}
+.home-depth-reading{margin:28px 0;padding:20px 22px;border-block:1px solid var(--line);background:#fff}
+.home-depth-reading h2{margin:4px 0 6px;font-size:22px;line-height:1.5}
+.home-depth-reading p:last-child{margin:0;color:var(--muted)}
+.research-explorer{margin:28px 0 36px;padding:20px 0;border-block:1px solid var(--line)}
+.research-explorer-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;margin-bottom:12px}
+.research-explorer-heading h2{margin:2px 0 4px;font-size:22px}
+.research-explorer-heading p:last-child{margin:0;color:var(--muted);font-size:15px}
+.research-toggle-all{display:none;flex:0 0 auto;min-height:44px;padding:8px 12px;border:1px solid var(--line);border-radius:7px;background:#fff;color:var(--green);font:inherit;font-weight:650;cursor:pointer}
+.js-ready .research-toggle-all{display:inline-flex;align-items:center;justify-content:center}
+.research-toggle-all:focus-visible{outline:3px solid #0b5d49;outline-offset:3px}
+.research-panel{padding:0 14px;border:1px solid var(--line);border-radius:8px;background:#fff}
+.research-panel+.research-panel{margin-top:8px}
+.research-panel>summary{font-weight:700;color:var(--ink)}
+.research-panel p{margin:8px 0;font-size:15px}
+.research-panel p:last-child{padding-bottom:8px}
+@media(max-width:560px){.home-depth-reading{padding:18px 16px}.research-explorer-heading{align-items:flex-start;flex-direction:column}.research-toggle-all{width:100%}.research-panel{padding-inline:12px}}
 .archive-page main article{display:grid;grid-template-columns:120px minmax(0,1fr);gap:2px 20px;align-items:baseline;margin:0;padding:14px 0;border:0;border-bottom:1px solid var(--line);border-radius:0;background:transparent}
 .archive-page main article .meta{grid-row:1 / span 2;margin:0}
 .archive-page main article h2{margin:0;font-size:19px;line-height:1.5}
