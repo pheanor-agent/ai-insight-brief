@@ -14,22 +14,18 @@
 <p class="intro">날짜를 넘어 같은 질문을 다룬 공개 글을 연결합니다. 아래 길은 기존 원고의 실제 범위에 맞춘 편집 안내이며, 직접 후속 연구나 동일한 실험 비교를 뜻하지 않습니다.</p>
 <section class="question-explorer" id="explore" aria-labelledby="explore-title">
 <h2 id="explore-title">어떤 질문에서 시작할까요?</h2>
-<p>질문을 고르면 그 질문에 연결된 글을 추려 보여줍니다. 선택하지 않아도 전체 경로를 읽을 수 있습니다.</p>
-<fieldset class="question-list"><legend class="visually-hidden">읽기 질문 선택</legend>
-<label><input type="radio" name="question" value="delegate"><span>일을 맡길 때, 어디까지 확인할까요?</span></label>
-<label><input type="radio" name="question" value="supervise"><span>결과가 맞아도 실행을 감독할 수 있을까요?</span></label>
-<label><input type="radio" name="question" value="memory"><span>기억이 다음 작업까지 이어지려면 무엇이 필요할까요?</span></label>
-<label><input type="radio" name="question" value="video"><span>영상의 움직임을 어떻게 먼저 설계할까요?</span></label>
-<label><input type="radio" name="question" value="all"><span>모든 공개 해설 보기</span></label>
-</fieldset>
-<div class="route-map" aria-hidden="true"><svg viewBox="0 0 600 180" preserveAspectRatio="none"><path data-question="delegate" d="M20 20 C180 20 180 45 300 45 S430 65 580 65"/><path data-question="supervise" d="M20 60 C180 60 180 90 300 90 S430 105 580 105"/><path data-question="memory" d="M20 100 C180 100 180 130 300 130 S430 145 580 145"/><path data-question="video" d="M20 140 C180 140 180 160 300 160 S430 165 580 165"/></svg></div>
-<p class="route-status" aria-live="polite">공개된 읽기 경로 4개와 주제 글 1편을 모두 표시합니다.</p>
+<p>질문을 선택하면 해당 질문과 글 사이의 경로를 보여줍니다. 선택하지 않아도 모든 글을 읽을 수 있습니다.</p>
+<fieldset class="question-list"><legend class="visually-hidden">질문별 읽기 경로 선택</legend>
 <div class="reading-routes">
-<section class="reading-route" data-question="delegate"><p class="route-kicker">01 · 업무 위임</p><h3>맡긴 뒤의 확인은 어디에 남을까요?</h3><p>실행 환경이 달라지는 Cowork와 문서에 직접 반영되는 Workspace 편집을 함께 읽습니다. 서로 다른 기능을 다루며 연구 계보 관계는 아닙니다.</p><ol><li><a href="../blogs/claude-cowork-cloud.html">노트북을 닫아도 되는 작업, 아직 닫으면 안 되는 작업</a></li><li><a href="../blogs/claude-google-workspace.html">Claude가 고친 문서는 누구의 수정으로 남을까요</a></li></ol></section>
-<section class="reading-route" data-question="supervise"><p class="route-kicker">02 · 결과와 실행 감독</p><h3>완료된 결과만으로는 놓치는 것이 있나요?</h3><p>실행 경계에서의 행동 감사와 작업 기록을 사후/실시간으로 감독하는 평가를 나란히 봅니다. 평가 조건과 지표가 달라 성능 순위로 비교하지 않습니다.</p><ol><li><a href="../blogs/boundary-action-audit.html">금액이 맞아도 환불을 하면 안 되는 이유</a></li><li><a href="../blogs/control-osworld-monitor.html">다 끝난 뒤 85%를 찾던 감독은 왜 실행 전에 49%만 찾았을까</a></li></ol></section>
-<section class="reading-route" data-question="memory"><p class="route-kicker">03 · 기억에서 지속 운영으로</p><h3>기억은 어떻게 다음 행동과 연결될까요?</h3><p>질문에 따라 원본 기록을 다시 살펴보는 MemPilot과 장기 운영 설계를 탐색한 Sophia 글입니다. 두 글은 직접 후속 연구 관계가 아닙니다.</p><ol><li><a href="../blogs/mempilot-memory.html">AI의 기억도 다시 찾는 데 품이 듭니다</a></li><li><a href="sophia-persistent-agents.html">내일도 일하는 에이전트에게 무엇을 맡길 수 있을까</a></li></ol></section>
-<section class="reading-route" data-question="video"><p class="route-kicker">04 · 영상 움직임</p><h3>생성 전에 움직임을 정하면 무엇이 달라질까요?</h3><p>공개된 LTX 글 한 편에서 3D 구도로 카메라 움직임을 안내하는 제작 방식을 살핍니다. 비교 상대를 임의로 만들지 않았습니다.</p><ol><li><a href="../blogs/ltx-layout-to-render.html">생성 영상의 움직임을 먼저 정한다는 것</a></li></ol></section>
-</div></section>
+<section class="reading-route" data-question="delegate"><p class="route-kicker">01 · 업무 위임</p><p class="route-description">실행 환경이 달라지는 Cowork와 문서에 직접 반영되는 Workspace 편집을 함께 읽습니다. 서로 다른 기능을 다루며 연구 계보 관계는 아닙니다.</p><div class="route-body" data-count="2"><label class="route-question"><input type="radio" name="question" value="delegate"><span>일을 맡길 때, 어디까지 확인할까요?</span></label><div class="route-connections"><div class="route-row"><svg viewBox="0 0 100 36" preserveAspectRatio="none" aria-hidden="true"><path class="route-line" d="M0 18 C35 18 55 18 100 18"/><circle cx="100" cy="18" r="2.4"/></svg><a href="../blogs/claude-cowork-cloud.html">노트북을 닫아도 되는 작업, 아직 닫으면 안 되는 작업</a></div><div class="route-row"><svg viewBox="0 0 100 36" preserveAspectRatio="none" aria-hidden="true"><path class="route-line" d="M0 18 C35 18 55 18 100 18"/><circle cx="100" cy="18" r="2.4"/></svg><a href="../blogs/claude-google-workspace.html">Claude가 고친 문서는 누구의 수정으로 남을까요</a></div></div></div></section>
+<section class="reading-route" data-question="supervise"><p class="route-kicker">02 · 결과와 실행 감독</p><p class="route-description">실행 경계에서의 행동 감사와 작업 기록을 사후/실시간으로 감독하는 평가를 나란히 봅니다. 평가 조건과 지표가 달라 성능 순위로 비교하지 않습니다.</p><div class="route-body" data-count="2"><label class="route-question"><input type="radio" name="question" value="supervise"><span>결과가 맞아도 실행을 감독할 수 있을까요?</span></label><div class="route-connections"><div class="route-row"><svg viewBox="0 0 100 36" preserveAspectRatio="none" aria-hidden="true"><path class="route-line" d="M0 18 C35 18 55 18 100 18"/><circle cx="100" cy="18" r="2.4"/></svg><a href="../blogs/boundary-action-audit.html">금액이 맞아도 환불을 하면 안 되는 이유</a></div><div class="route-row"><svg viewBox="0 0 100 36" preserveAspectRatio="none" aria-hidden="true"><path class="route-line" d="M0 18 C35 18 55 18 100 18"/><circle cx="100" cy="18" r="2.4"/></svg><a href="../blogs/control-osworld-monitor.html">다 끝난 뒤 85%를 찾던 감독은 왜 실행 전에 49%만 찾았을까</a></div></div></div></section>
+<section class="reading-route" data-question="memory"><p class="route-kicker">03 · 기억에서 지속 운영으로</p><p class="route-description">질문에 따라 원본 기록을 다시 살펴보는 MemPilot과 장기 운영 설계를 탐색한 Sophia 글입니다. 두 글은 직접 후속 연구 관계가 아닙니다.</p><div class="route-body" data-count="2"><label class="route-question"><input type="radio" name="question" value="memory"><span>기억이 다음 작업까지 이어지려면 무엇이 필요할까요?</span></label><div class="route-connections"><div class="route-row"><svg viewBox="0 0 100 36" preserveAspectRatio="none" aria-hidden="true"><path class="route-line" d="M0 18 C35 18 55 18 100 18"/><circle cx="100" cy="18" r="2.4"/></svg><a href="../blogs/mempilot-memory.html">AI의 기억도 다시 찾는 데 품이 듭니다</a></div><div class="route-row"><svg viewBox="0 0 100 36" preserveAspectRatio="none" aria-hidden="true"><path class="route-line" d="M0 18 C35 18 55 18 100 18"/><circle cx="100" cy="18" r="2.4"/></svg><a href="sophia-persistent-agents.html">내일도 일하는 에이전트에게 무엇을 맡길 수 있을까</a></div></div></div></section>
+<section class="reading-route" data-question="video"><p class="route-kicker">04 · 영상 움직임</p><p class="route-description">공개된 LTX 글 한 편에서 3D 구도로 카메라 움직임을 안내하는 제작 방식을 살핍니다. 비교 상대를 임의로 만들지 않았습니다.</p><div class="route-body" data-count="1"><label class="route-question"><input type="radio" name="question" value="video"><span>영상의 움직임을 어떻게 먼저 설계할까요?</span></label><div class="route-connections"><div class="route-row"><svg viewBox="0 0 100 36" preserveAspectRatio="none" aria-hidden="true"><path class="route-line" d="M0 18 C35 18 55 18 100 18"/><circle cx="100" cy="18" r="2.4"/></svg><a href="../blogs/ltx-layout-to-render.html">생성 영상의 움직임을 먼저 정한다는 것</a></div></div></div></section>
+</div>
+<label class="question-all"><input type="radio" name="question" value="all"><span>모든 공개 해설 보기</span></label>
+</fieldset>
+<p class="route-status" aria-live="polite">공개된 읽기 경로 4개와 주제 글 1편을 모두 표시합니다.</p>
+</section>
 <section class="published-index" aria-labelledby="published-title"><h2 id="published-title">발행된 글</h2><p>날짜별 리포트와 주제 글은 원래 주소에 보관합니다. 아래는 검수 완료 원고로 연결된 해설입니다.</p>
 <ul><li><span>업무 도구</span><a href="../blogs/claude-google-workspace.html">Claude가 고친 문서는 누구의 수정으로 남을까요</a></li><li><span>업무 위임</span><a href="../blogs/claude-cowork-cloud.html">노트북을 닫아도 되는 작업, 아직 닫으면 안 되는 작업</a></li><li><span>기억</span><a href="../blogs/mempilot-memory.html">AI의 기억도 다시 찾는 데 품이 듭니다</a></li><li><span>실행 감독</span><a href="../blogs/boundary-action-audit.html">금액이 맞아도 환불을 하면 안 되는 이유</a></li><li><span>실행 감독</span><a href="../blogs/control-osworld-monitor.html">다 끝난 뒤 85%를 찾던 감독은 왜 실행 전에 49%만 찾았을까</a></li><li><span>영상 제작</span><a href="../blogs/ltx-layout-to-render.html">생성 영상의 움직임을 먼저 정한다는 것</a></li><li><span>주제 글</span><a href="sophia-persistent-agents.html">내일도 일하는 에이전트에게 무엇을 맡길 수 있을까</a></li></ul>
 </section>
@@ -45,7 +41,16 @@
     const valid = ['delegate','supervise','memory','video','all'].includes(value) ? value : 'all';
     const control = form.querySelector(`[value="${valid}"]`);
     control.checked = true;
-    routes.forEach(route => { route.hidden = valid !== 'all' && route.dataset.question !== valid; });
+    routes.forEach(route => {
+      const selected = valid !== 'all' && route.dataset.question === valid;
+      route.hidden = valid !== 'all' && !selected;
+      route.classList.toggle('selected-route', selected);
+      if (historyMode && selected) {
+        route.classList.remove('route-arriving');
+        void route.offsetWidth;
+        route.classList.add('route-arriving');
+      }
+    });
     status.textContent = valid === 'all' ? '공개된 읽기 경로 4개와 주제 글 1편을 모두 표시합니다.' : '선택한 질문의 읽기 경로를 표시합니다.';
     document.body.dataset.question = valid;
     if (historyMode) {
@@ -59,6 +64,23 @@
   apply(new URL(location.href).searchParams.get(key) || 'all', false);
   form.addEventListener('change', event => { if (event.target.name === key) apply(event.target.value, true); });
   addEventListener('popstate', () => apply(new URL(location.href).searchParams.get(key) || 'all', false));
+  const finePointer = matchMedia('(hover: hover) and (pointer: fine)');
+  const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  const explorer = document.querySelector('.question-explorer');
+  if (finePointer.matches && !reducedMotion.matches) {
+    explorer.addEventListener('pointermove', event => {
+      explorer.querySelectorAll('.route-line').forEach(path => {
+        const rect = path.ownerSVGElement.getBoundingClientRect();
+        if (!rect.height) return;
+        const pixels = Math.max(-5, Math.min(5, (event.clientY - rect.top - rect.height / 2) * .08));
+        const svgUnits = pixels * 36 / rect.height;
+        path.setAttribute('d', `M0 18 C35 18 55 ${18 + svgUnits} 100 18`);
+      });
+    });
+    explorer.addEventListener('pointerleave', () => {
+      explorer.querySelectorAll('.route-line').forEach(path => path.setAttribute('d', 'M0 18 C35 18 55 18 100 18'));
+    });
+  }
 })();
 </script>
 </body></html>
