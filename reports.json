@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-10-07",
+    "url": "2026-10-07-daily.html",
+    "title": "10월 7일 AI 종합 리포트",
+    "updated": "2026-10-07",
+    "topics": [
+      "Claude 구글 문서 편집",
+      "에이전트 감독",
+      "MemPilot",
+      "LTX Layout to Render"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/boundary-action-audit.html",
+        "title": "금액이 맞아도 환불을 하면 안 되는 이유",
+        "writer": "정도윤",
+        "fictional_writer": true,
+        "read_minutes": 4
+      },
+      {
+        "url": "blogs/control-osworld-monitor.html",
+        "title": "다 끝난 뒤 85%를 찾던 감독은 왜 실행 전에 49%만 찾았을까",
+        "writer": "정도윤",
+        "fictional_writer": true,
+        "read_minutes": 4
+      },
+      {
+        "url": "blogs/claude-google-workspace.html",
+        "title": "Claude가 고친 문서는 누구의 수정으로 남을까요",
+        "writer": "한유리",
+        "fictional_writer": true,
+        "read_minutes": 3
+      },
+      {
+        "url": "blogs/ltx-layout-to-render.html",
+        "title": "생성 영상의 움직임을 먼저 정한다는 것",
+        "writer": "한유리",
+        "fictional_writer": true,
+        "read_minutes": 4
+      },
+      {
+        "url": "blogs/claude-cowork-cloud.html",
+        "title": "노트북을 닫아도 되는 작업, 아직 닫으면 안 되는 작업",
+        "writer": "윤서진",
+        "fictional_writer": true,
+        "read_minutes": 4
+      },
+      {
+        "url": "blogs/mempilot-memory.html",
+        "title": "AI의 기억도 다시 찾는 데 품이 듭니다",
+        "writer": "윤서진",
+        "fictional_writer": true,
+        "read_minutes": 4
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "url": "2026-10-06-daily.html",
     "title": "10월 6일 AI 종합 리포트",
