@@ -255,7 +255,7 @@ body[data-question="all"] .route-line,body[data-question="delegate"] .reading-ro
 .route-question{grid-column:1;display:flex;align-items:center;min-width:0;min-height:52px;padding:10px 14px;border:1px solid #7B8C82;background:#FFFEFA;font-weight:700;line-height:1.5;cursor:pointer}
 .route-body[data-count="2"] .route-question{grid-row:1 / span 2}
 .route-body[data-count="1"] .route-question{grid-row:1}
-.route-connections{display:contents}
+.route-connections{display:contents}.route-connections[hidden]{display:none!important}
 .route-row{grid-column:2 / 4;display:grid;grid-template-columns:56px minmax(0,1fr);align-items:center;gap:12px;min-width:0;min-height:52px}
 .route-row svg{display:block;width:56px;height:36px;overflow:visible}
 .route-row>a{display:flex;align-items:center;min-width:0;min-height:44px;padding:6px 0;font-weight:700;line-height:1.5;text-decoration:none;overflow-wrap:anywhere}

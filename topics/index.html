@@ -43,7 +43,9 @@
     control.checked = true;
     routes.forEach(route => {
       const selected = valid !== 'all' && route.dataset.question === valid;
-      route.hidden = valid !== 'all' && !selected;
+      route.hidden = false;
+      const connections = route.querySelector('.route-connections');
+      connections.hidden = valid !== 'all' && !selected;
       route.classList.toggle('selected-route', selected);
       if (historyMode && selected) {
         route.classList.remove('route-arriving');
