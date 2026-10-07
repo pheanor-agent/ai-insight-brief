@@ -11,7 +11,7 @@
   ],
   "original_verified_on": "2026-10-07",
   "approved_source_sha256": "bd57a9c1b3ebbe4d8c72f630cfbe64175f152919b269bff1382e0ee4df22d4e0",
-  "published_on": "pending until verified Pages publication",
+  "published_on": "2026-10-07",
   "last_reviewed": "2026-10-07",
   "author": "윤서진 · 가상 필자",
   "scope": "Sophia와 2023~2025년에 최초 공개된 MemGPT, Reflexion, Voyager를 중심으로 한 비교; 최신 연구 전수조사 아님.",
@@ -26,7 +26,7 @@
       "date": "2026-10-07",
       "change": "원문 확인 및 공개용 HTML 구조화; 문장 변경 없이 옮김",
       "source_sha256": "bd57a9c1b3ebbe4d8c72f630cfbe64175f152919b269bff1382e0ee4df22d4e0",
-      "review": "2026-10-07 final independent fact/editorial review confirmed by requester; deployment read-back pending"
+      "review": "2026-10-07 final independent fact/editorial review confirmed by requester; deployed on 2026-10-07 via commit 613f70cb9d77b73a2fe6ddbe35774306c37a3779, Pages run 37636823914"
     }
   ],
   "related_reading": [
@@ -42,5 +42,5 @@
     "검증 없는 자기평가가 아니라 어떤 외부 근거가 개선을 입증하는가?",
     "장기 목표의 완료·중단·변경을 어떻게 평가하고 실패 뒤 복구하는가?"
   ],
-  "publication_status": "ready; remote publication not yet verified"
+  "publication_status": "published; first deployment verified by public URL read-back"
 }
