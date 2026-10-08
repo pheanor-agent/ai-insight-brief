@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-08",
+    "url": "2026-10-08-daily.html",
+    "title": "2026년 10월 8일 AI 브리프",
+    "updated": null,
+    "topics": [
+      "Intelligent UI",
+      "WikiVault",
+      "Jarvis",
+      "CAVERT"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/intelligent-ui.html",
+        "title": "ChatGPT가 만든 화면에서 사용자는 무엇을 고를 수 있을까요",
+        "writer": "한유리",
+        "fictional_writer": true
+      },
+      {
+        "url": "blogs/wikivault.html",
+        "title": "위키백과 문서가 늘어난 뒤에도 남는 일",
+        "writer": "윤서진",
+        "fictional_writer": true
+      },
+      {
+        "url": "blogs/jarvis.html",
+        "title": "회의에서 AI가 준비한 말을 거둘 수 있어야 하는 이유",
+        "writer": "한유리",
+        "fictional_writer": true
+      },
+      {
+        "url": "blogs/cavert.html",
+        "title": "공유 메모리를 고친 뒤에도 에이전트가 실수하는 이유",
+        "writer": "정도윤",
+        "fictional_writer": true
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "url": "2026-10-07-daily.html",
     "title": "10월 7일 AI 종합 리포트",
