@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-10-09",
+    "url": "2026-10-09-daily.html",
+    "title": "2026년 10월 9일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "Gemini 에이전트의 변화는 ‘모델’보다 ‘업무 연결’에 있다"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-10-09-gemini-work-agent.html",
+        "title": "Gemini 에이전트의 변화는 ‘모델’보다 ‘업무 연결’에 있다",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini",
+        "visual": "c-interface",
+        "cover_key": "c-interface",
+        "interest_group": "agents-execution"
+      }
+    ]
+  },
+  {
     "date": "2026-10-08",
     "url": "2026-10-08-daily.html",
     "title": "2026년 10월 8일 AI 브리프",

@@ -17,6 +17,7 @@
         "title": "오늘의 편집 회의",
         "description": "발행된 기사에서 독자가 살펴볼 질문과 설명의 범위를 짚습니다.",
         "meeting_ids": [
+          "daily-2026-10-09",
           "daily-2026-10-08",
           "daily-2026-10-07"
         ]
@@ -31,6 +32,10 @@
       }
     ],
     "links": [
+      {
+        "title": "2026년 10월 9일 AI 브리프",
+        "href": "2026-10-09-daily.html"
+      },
       {
         "title": "2026년 10월 8일 AI 브리프",
         "href": "2026-10-08-daily.html"
@@ -50,6 +55,28 @@
     ]
   },
   "meetings": [
+    {
+      "id": "daily-2026-10-09",
+      "type": "daily",
+      "date": "2026-10-09",
+      "title": "10월 9일 편집회의",
+      "purpose": "10월 9일 호의 편집 질문과 범위를 다룹니다.",
+      "disclosure": "제공된 공개용 원고를 바탕으로 한 가상 재구성이며 실제 회의 기록이 아닙니다.",
+      "status": "proposed",
+      "source": "provided meeting-public-draft.md",
+      "url": "meeting-room.html#issue-2026-10-09",
+      "related_links": [
+        {
+          "title": "2026년 10월 9일 AI 브리프",
+          "href": "2026-10-09-daily.html"
+        },
+        {
+          "title": "Gemini 에이전트의 변화는 ‘모델’보다 ‘업무 연결’에 있다",
+          "href": "blogs/2026-10-09-gemini-work-agent.html"
+        }
+      ],
+      "edit_log": []
+    },
     {
       "id": "daily-2026-10-08",
       "type": "daily",
