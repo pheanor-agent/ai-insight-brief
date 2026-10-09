@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-10-10",
+    "url": "2026-10-10-daily.html",
+    "title": "2026년 10월 10일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "소비자 AI는 대중시장을 얻지 못했나—아니면 돈을 내는 사람만 좁은가"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-10-10-a16z-consumer-ai.html",
+        "title": "소비자 AI는 대중시장을 얻지 못했나—아니면 돈을 내는 사람만 좁은가",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai",
+        "visual": "c-interface",
+        "cover_key": "c-interface",
+        "interest_group": "people-ai"
+      }
+    ]
+  },
+  {
     "date": "2026-10-09",
     "url": "2026-10-09-daily.html",
     "title": "2026년 10월 9일 AI 브리프",
