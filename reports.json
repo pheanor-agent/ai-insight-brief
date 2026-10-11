@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-10-11",
+    "url": "2026-10-11-daily.html",
+    "title": "2026년 10월 11일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "에이전트의 행동, 사용자는 어디서 멈출 수 있나"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-10-11-anthropic-unintended-actions.html",
+        "title": "에이전트의 행동, 사용자는 어디서 멈출 수 있나",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+        "source_label": "Anthropic 연구 보고서",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "agents-execution"
+      }
+    ]
+  },
+  {
     "date": "2026-10-10",
     "url": "2026-10-10-daily.html",
     "title": "2026년 10월 10일 AI 브리프",
