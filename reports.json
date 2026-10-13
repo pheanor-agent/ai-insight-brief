@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-10-13",
+    "url": "2026-10-13-daily.html",
+    "title": "2026년 10월 13일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "기억하고 집중한다는 모델, 그 말의 범위"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-10-13-meta-muse-wonder-access.html",
+        "title": "기억하고 집중한다는 모델, 그 말의 범위",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "source_label": "TechCrunch 보도",
+        "visual": "c-memory",
+        "cover_key": "c-memory",
+        "interest_group": "agents-execution"
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "url": "2026-10-11-daily.html",
     "title": "2026년 10월 11일 AI 브리프",
