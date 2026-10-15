@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-10-15",
+    "url": "2026-10-15-daily.html",
+    "title": "2026년 10월 15일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "에이전트 연구의 병목은 실패 뒤의 다음 단계에 있다"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-10-15-third-moment-agents.html",
+        "title": "에이전트 연구의 병목은 실패 뒤의 다음 단계에 있다",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/third-moment-research",
+        "source_label": "OpenAI 고객 사례",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "agents-execution"
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "url": "2026-10-13-daily.html",
     "title": "2026년 10월 13일 AI 브리프",
