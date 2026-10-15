@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-10-16",
+    "url": "2026-10-16-daily.html",
+    "title": "2026년 10월 16일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "영국 의회 증언이 던진 질문: 프런티어 AI 감독은 약속으로 충분한가",
+      "관리자 에이전트는 품질을 올리는가: 쌍 실험이 보여 준 수정 루프"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-10-16-uk-hearing-frontier-rules.html",
+        "title": "영국 의회 증언이 던진 질문: 프런티어 AI 감독은 약속으로 충분한가",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://committees.parliament.uk/event/28282/formal-meeting-oral-evidence-session/",
+        "source_label": "영국 하원 회의 기록",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "society-world"
+      },
+      {
+        "url": "blogs/2026-10-16-loopback-authority-agent-teams.html",
+        "title": "관리자 에이전트는 품질을 올리는가: 쌍 실험이 보여 준 수정 루프",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://arxiv.org/abs/2609.14767",
+        "source_label": "arXiv 프리프린트",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "agents-execution"
+      }
+    ]
+  },
+  {
     "date": "2026-10-15",
     "url": "2026-10-15-daily.html",
     "title": "2026년 10월 15일 AI 브리프",
