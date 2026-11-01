@@ -532,3 +532,41 @@ main>footer p,main>footer nav{display:flex;flex-wrap:wrap;align-items:center;gap
 main>footer a{display:inline-flex;align-items:center;min-height:44px;min-width:44px;padding:0 2px}
 footer p>a+a,footer .fiction-disclosure a{margin-left:0}
 @media(max-width:700px){.signal-network{opacity:.2}}
+
+/* Question-led topic exploration: derived from the published article links. */
+.topic-explorer{margin:28px 0 36px;padding:20px;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+.topic-explorer h2{font-size:1.25rem;margin:0 0 12px}
+.topic-filters{display:grid;grid-template-columns:minmax(180px,2fr) repeat(3,minmax(130px,1fr));gap:12px;align-items:end}
+.topic-filters label{display:grid;gap:5px;font-size:.88rem;font-weight:650}
+.topic-filters input,.topic-filters select,.topic-filters button{min-width:0;min-height:44px;padding:8px 10px;border:1px solid #89988f;border-radius:7px;background:#fffefa;color:var(--ink);font:inherit}
+.topic-filter-actions{display:flex;gap:10px;align-items:center;margin-top:12px}
+.topic-filter-actions button{min-height:44px;padding:8px 14px;border:1px solid var(--green);border-radius:7px;background:var(--selected);color:var(--ink);font:inherit;font-weight:700;cursor:pointer}
+.topic-result-count{margin:12px 0 0;color:var(--muted);font-size:.9rem}
+.topic-group[hidden],.topic-group li[hidden]{display:none!important}
+.reading-route{margin:24px 0;padding:18px;border:1px solid var(--line);border-radius:12px;background:var(--surface);scroll-margin-top:16px}
+.reading-route:focus{outline:3px solid var(--green);outline-offset:3px}
+.reading-route h3{margin:0 0 8px;font-size:1.08rem;line-height:1.5}
+.reading-route .route-description{max-width:760px;margin:0 0 14px;color:var(--muted);font-size:.92rem}
+.route-steps{list-style:none;counter-reset:route-step;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.route-steps li{position:relative;min-width:0;padding:14px;border:1px solid var(--line);border-radius:10px;background:#fffefa;counter-increment:route-step}
+.route-steps li:before{content:counter(route-step,decimal-leading-zero);display:block;margin-bottom:6px;color:var(--rust);font-weight:800;font-variant-numeric:tabular-nums}
+.route-steps a{display:inline-flex;align-items:center;min-height:44px;font-weight:700;line-height:1.45;overflow-wrap:anywhere}
+.route-steps p{margin:8px 0 0;color:var(--muted);font-size:.86rem;line-height:1.6}
+.route-date{font-size:.78rem!important;color:var(--muted)!important}
+.route-connection{font-size:.78rem!important;font-weight:700;color:var(--green)!important}
+.route-connection:before{content:"→ ";font-weight:900}
+.route-destination{margin:14px 0 0;font-size:.88rem}
+.article-related-reading{margin:32px 0;padding:18px;border:1px solid var(--line);border-left:4px solid var(--green);border-radius:10px;background:var(--surface)}
+.article-related-reading h2{margin:0 0 10px;font-size:1.1rem}
+.article-related-reading ul{margin:0;padding-left:22px}
+.article-related-reading li{margin:10px 0}
+.article-related-reading a{display:inline-flex;min-height:44px;align-items:center;font-weight:700;overflow-wrap:anywhere}
+.article-related-reading p{margin:2px 0 8px;color:var(--muted);font-size:.9rem}
+.archive-topic-routes{margin:24px 0;padding:16px;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+.archive-topic-routes ul{display:flex;flex-wrap:wrap;gap:8px 20px;margin:8px 0 0;padding-left:20px}
+.archive-topic-routes a{display:inline-flex;align-items:center;min-height:44px;overflow-wrap:anywhere}
+.question-route-nav{margin:18px 0;padding:16px;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+.question-route-nav ul{display:flex;flex-wrap:wrap;gap:8px 18px;margin:8px 0 0;padding-left:20px}
+.question-route-nav a{display:inline-flex;align-items:center;min-height:44px;overflow-wrap:anywhere}
+@media(max-width:760px){.topic-filters{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.topic-filters label:first-child{grid-column:1/-1}.route-steps{grid-template-columns:minmax(0,1fr);gap:10px}.route-connection:before{content:"↓ ";}.reading-route{padding:14px}}
+@media(max-width:380px){.topic-explorer{padding:14px}.topic-filters{grid-template-columns:minmax(0,1fr)}.topic-filters label:first-child{grid-column:auto}}
