@@ -6,7 +6,9 @@
     "timezone": "Asia/Seoul",
     "updated": null,
     "topics": [
-      "여러 AI 사업자에게 같은 선호를 전하는 신호, 아직은 약속의 단계"
+      "여러 AI 사업자에게 같은 선호를 전하는 신호, 아직은 약속의 단계",
+      "궤도에서 온 첫 답변, 어디까지 믿을 수 있을까?",
+      "멀티에이전트 서빙은 왜 ‘전체 작업’을 재야 할까"
     ],
     "explainers": [
       {
@@ -20,6 +22,30 @@
         "visual": "c-security",
         "cover_key": "c-security",
         "interest_group": "society-world"
+      },
+      {
+        "url": "blogs/2026-11-01-google-suncatcher-first-response.html",
+        "title": "궤도에서 온 첫 답변, 어디까지 믿을 수 있을까?",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+        "source_label": "Google 공식 블로그",
+        "visual": "c-simulation",
+        "cover_key": "c-simulation",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-01-maservebench.html",
+        "title": "멀티에이전트 서빙은 왜 ‘전체 작업’을 재야 할까",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://arxiv.org/html/2610.40293v1",
+        "source_label": "arXiv 프리프린트 원문",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "agents-execution"
       }
     ]
   },

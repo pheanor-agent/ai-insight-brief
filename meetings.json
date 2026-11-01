@@ -93,6 +93,14 @@
         {
           "title": "여러 AI 사업자에게 같은 선호를 전하는 신호, 아직은 약속의 단계",
           "href": "blogs/2026-11-01-openai-ai-training-preference.html"
+        },
+        {
+          "title": "궤도에서 온 첫 답변, 어디까지 믿을 수 있을까?",
+          "href": "blogs/2026-11-01-google-suncatcher-first-response.html"
+        },
+        {
+          "title": "멀티에이전트 서빙은 왜 ‘전체 작업’을 재야 할까",
+          "href": "blogs/2026-11-01-maservebench.html"
         }
       ],
       "edit_log": []
