@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-11-01",
+    "url": "2026-11-01-daily.html",
+    "title": "2026년 11월 1일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "여러 AI 사업자에게 같은 선호를 전하는 신호, 아직은 약속의 단계"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-01-openai-ai-training-preference.html",
+        "title": "여러 AI 사업자에게 같은 선호를 전하는 신호, 아직은 약속의 단계",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+        "source_label": "OpenAI 공식 발표",
+        "visual": "c-security",
+        "cover_key": "c-security",
+        "interest_group": "society-world"
+      }
+    ]
+  },
+  {
     "date": "2026-10-16",
     "url": "2026-10-16-daily.html",
     "title": "2026년 10월 16일 AI 브리프",
