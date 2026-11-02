@@ -17,6 +17,8 @@
         "fictional_writer": true,
         "source_url": "https://alignment.anthropic.com/2026/automated-em-search/",
         "source_label": "Anthropic 연구 원문",
+        "source_published_at": "2026-10",
+        "content_kind": "background",
         "visual": "c-oversight",
         "cover_key": "c-oversight",
         "interest_group": "agents-execution"
@@ -43,6 +45,8 @@
         "fictional_writer": true,
         "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
         "source_label": "OpenAI 공식 발표",
+        "source_published_at": "2026-10-30",
+        "content_kind": "background",
         "visual": "c-security",
         "cover_key": "c-security",
         "interest_group": "society-world"
@@ -55,6 +59,8 @@
         "fictional_writer": true,
         "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
         "source_label": "Google 공식 블로그",
+        "source_published_at": "2026-10-30",
+        "content_kind": "background",
         "visual": "c-simulation",
         "cover_key": "c-simulation",
         "interest_group": "agents-execution"

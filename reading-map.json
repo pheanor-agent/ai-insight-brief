@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "questions": [
+    {
+      "id": "supervise",
+      "anchor": "question-supervise",
+      "title": "AI의 행동을 믿기 위해 어느 단계에서 무엇을 확인할까요?",
+      "group": "agents-execution",
+      "description": "실행 중 행동을 감독하고, 학습 자료를 검사하며, 학습 후 행동을 평가하는 서로 다른 확인 단계를 살펴봅니다. 각 글의 근거와 평가 조건은 다르므로 성능 순위로 비교하지 않습니다.",
+      "reviewed_at": "2026-11-02",
+      "steps": [
+        {
+          "url": "blogs/boundary-action-audit.html",
+          "relation": null,
+          "reason": ""
+        },
+        {
+          "url": "blogs/control-osworld-monitor.html",
+          "relation": "comparison",
+          "reason": "실행 경계에서의 행동 감사와 작업 기록을 사후/실시간으로 감독하는 평가를 나란히 봅니다. 평가 조건과 지표가 달라 성능 순위로 비교하지 않습니다."
+        },
+        {
+          "url": "blogs/2026-11-02-training-data-monitoring.html",
+          "relation": "comparison",
+          "reason": "OSWorld의 실행 중 감독에서 확인한 시점을 학습 자료의 행별 검사와 학습 후 행동 평가까지 넓혀 비교합니다. 확인 대상과 단계가 다르므로 직접 후속 연구나 같은 벤치마크 관계가 아닙니다."
+        }
+      ]
+    },
+    {
+      "id": "memory",
+      "anchor": "question-memory",
+      "title": "함께 읽기 · 기억이 다음 작업까지 이어지려면 무엇이 필요할까요?",
+      "group": "agents-execution",
+      "description": "질문에 따라 원본 기록을 다시 살펴보는 MemPilot과 장기 운영 설계를 탐색한 Sophia 글입니다. 두 글은 직접 후속 연구 관계가 아닙니다.",
+      "reviewed_at": null,
+      "steps": [
+        {
+          "url": "blogs/mempilot-memory.html",
+          "relation": null,
+          "reason": ""
+        },
+        {
+          "url": "topics/sophia-persistent-agents.html",
+          "relation": "background",
+          "reason": "질문에 따라 원본 기록을 다시 살펴보는 MemPilot과 장기 운영 설계를 탐색한 Sophia 글입니다. 두 글은 직접 후속 연구 관계가 아닙니다."
+        }
+      ]
+    },
+    {
+      "id": "team-evaluation",
+      "anchor": "team-evaluation",
+      "title": "에이전트 팀의 결과를 어떻게 검증·평가할까요?",
+      "group": "agents-execution",
+      "description": "세 글은 실패 뒤의 운영, 관리자 수정 권한, 멀티에이전트 서빙 측정을 서로 다른 자료와 조건으로 다룹니다. 비교·확장 경로이며 직접 후속 연구, 같은 벤치마크 또는 성능 순위가 아닙니다.",
+      "reviewed_at": null,
+      "steps": [
+        {
+          "url": "blogs/2026-10-15-third-moment-agents.html",
+          "relation": null,
+          "reason": "운영 사례: 공급자가 소개한 장시간 실행·감독 사례로, 실패 뒤 다음 행동을 고르는 구조를 살핍니다."
+        },
+        {
+          "url": "blogs/2026-10-16-loopback-authority-agent-teams.html",
+          "relation": "comparison",
+          "reason": "쌍 실험: 한 과업의 관리자 수정 권한을 비교한 프리프린트로, 과업과 조건이 제한됩니다."
+        },
+        {
+          "url": "blogs/2026-11-01-maservebench.html",
+          "relation": "comparison",
+          "reason": "서빙 측정 제안: 협업 workload와 작업 전체 측정을 제안한 프리프린트이며, 독립 성능 재현은 아닙니다."
+        }
+      ]
+    },
+    {
+      "id": "delegate",
+      "anchor": "question-delegate",
+      "title": "함께 읽기 · 일을 맡길 때, 어디까지 확인할까요?",
+      "group": "people-ai",
+      "description": "실행 환경이 달라지는 Cowork와 문서에 직접 반영되는 Workspace 편집을 함께 읽습니다. 서로 다른 기능을 다루며 연구 계보 관계는 아닙니다.",
+      "reviewed_at": null,
+      "steps": [
+        {
+          "url": "blogs/claude-cowork-cloud.html",
+          "relation": null,
+          "reason": ""
+        },
+        {
+          "url": "blogs/claude-google-workspace.html",
+          "relation": "comparison",
+          "reason": "실행 환경이 달라지는 Cowork와 문서에 직접 반영되는 Workspace 편집을 함께 읽습니다. 서로 다른 기능을 다루며 연구 계보 관계는 아닙니다."
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "anchor": "question-video",
+      "title": "함께 읽기 · 영상의 움직임을 어떻게 먼저 설계할까요?",
+      "group": "society-world",
+      "description": "공개된 LTX 글 한 편에서 3D 구도로 카메라 움직임을 안내하는 제작 방식을 살핍니다. 비교 상대를 임의로 만들지 않았습니다.",
+      "reviewed_at": null,
+      "steps": [
+        {
+          "url": "blogs/ltx-layout-to-render.html",
+          "relation": null,
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "id": "real-world-evidence",
+      "anchor": "question-real-world-evidence",
+      "title": "AI가 작동했다는 말은 무엇을 확인한 걸까요?",
+      "group": "agents-execution",
+      "description": "드론 임무, 실험실 로봇, 궤도 시제품에서 출력 형식·실제 수행·지속 운용이 각각 어디까지 확인됐는지 비교합니다. 서로 다른 연구와 시연을 묶은 읽기 순서입니다.",
+      "reviewed_at": "2026-11-02",
+      "steps": [
+        {
+          "url": "topics/drone.html",
+          "relation": null,
+          "reason": "명령의 형식이 맞는 것과 전체 임무를 마치는 것을 구별합니다."
+        },
+        {
+          "url": "topics/biomars.html",
+          "relation": "comparison",
+          "reason": "비행 명령과 목표 도달의 구분을, 실험 계획·로봇 명령·실제 관찰을 나누는 사례와 비교합니다. 서로 다른 환경의 평가입니다."
+        },
+        {
+          "url": "blogs/2026-11-01-google-suncatcher-first-response.html",
+          "relation": "comparison",
+          "reason": "로봇의 수행과 관찰에서 궤도 시제품의 첫 응답으로 옮겨, 한 번의 작동과 지속 운용을 뒷받침하는 근거가 어떻게 다른지 비교합니다."
+        }
+      ]
+    },
+    {
+      "id": "promises-and-enforcement",
+      "anchor": "question-promises-and-enforcement",
+      "title": "AI 사업자의 약속은 어떻게 실제 이행으로 이어질까요?",
+      "group": "society-world",
+      "description": "모델 안전 감독의 자발적 약속 논의와 콘텐츠 학습 선호 신호의 채택 계획을 나란히 읽습니다. 서로 다른 문제에서 약속과 이행 수단의 차이를 살핍니다.",
+      "reviewed_at": "2026-11-02",
+      "steps": [
+        {
+          "url": "blogs/2026-10-16-uk-hearing-frontier-rules.html",
+          "relation": null,
+          "reason": "프런티어 AI 감독에서 약속과 실제 권한을 구별하는 질문으로 시작합니다."
+        },
+        {
+          "url": "blogs/2026-11-01-openai-ai-training-preference.html",
+          "relation": "comparison",
+          "reason": "안전 감독의 구속력 논의와 학습 선호 신호를 존중하겠다는 기업의 계획을 비교하며, 이행에 필요한 참여·장치를 구별합니다. 같은 제도나 직접 후속 관계를 뜻하지 않습니다."
+        }
+      ]
+    }
+  ]
+}

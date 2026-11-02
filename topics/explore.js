@@ -3,7 +3,7 @@
   const form = document.querySelector('#topic-filters');
   const status = document.querySelector('#topic-result-count');
   if (!root || !form || !status) return;
-  const entries = [...root.querySelectorAll('.topic-group li[data-explore-item]')];
+  const entries = [...root.querySelectorAll('#all-articles li[data-explore-item]')];
   const controls = Object.fromEntries(['search','group','type','sort'].map(k => [k, form.elements[k]]));
   const initial = entries.map((el, index) => ({el,index,date:el.dataset.issueDate || '',text:el.dataset.searchText.toLocaleLowerCase('ko')}));
   for (const control of Object.values(controls)) control.disabled = false;
@@ -19,10 +19,7 @@
     });
     for (const x of initial) x.el.hidden = true;
     for (const x of visible) { x.el.hidden = false; x.el.parentElement.append(x.el); }
-    for (const section of root.querySelectorAll('.topic-group')) {
-      const count = section.querySelectorAll('li[data-explore-item]:not([hidden])').length;
-      section.hidden = count === 0 && (group !== '' || query !== '' || type !== '');
-    }
+
     status.textContent = visible.length ? `${visible.length}편을 찾았습니다.` : '조건에 맞는 글이 없습니다.';
   };
   form.addEventListener('input', update);
