@@ -6,7 +6,10 @@
     "timezone": "Asia/Seoul",
     "updated": null,
     "topics": [
-      "안전 검사를 통과했다면, 무엇까지 확인된 걸까요?"
+      "안전 검사를 통과했다면, 무엇까지 확인된 걸까요?",
+      "오류 수정을 맡긴 뒤에도 사람이 정해야 하는 것들",
+      "덜 믿는다는 답과 다시 쓰겠다는 답은 무엇이 다를까요?",
+      "‘지원할 의향’이 ‘지원했다’가 되려면"
     ],
     "explainers": [
       {
@@ -22,6 +25,48 @@
         "visual": "c-oversight",
         "cover_key": "c-oversight",
         "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-02-developers-agent-management.html",
+        "title": "오류 수정을 맡긴 뒤에도 사람이 정해야 하는 것들",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://arxiv.org/html/2610.33588v1",
+        "source_label": "arXiv 연구 원문",
+        "source_published_at": "2026-10-24",
+        "content_kind": "background",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-02-trust-after-error-briefing.html",
+        "title": "덜 믿는다는 답과 다시 쓰겠다는 답은 무엇이 다를까요?",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://journals.sagepub.com/doi/10.1177/10711813261498742",
+        "source_label": "SAGE 설문 연구 원문",
+        "source_published_at": "2026-10-27",
+        "content_kind": "background",
+        "visual": "c-conversation",
+        "cover_key": "c-conversation",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-02-quad-ai-access-intent.html",
+        "title": "‘지원할 의향’이 ‘지원했다’가 되려면",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/quad-joint-press-release-on-economic-prosperity-and-security",
+        "source_label": "미국 국무부 공동성명",
+        "source_published_at": "2026-10-31",
+        "content_kind": "background",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "society-world"
       }
     ]
   },

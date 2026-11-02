@@ -77,7 +77,7 @@
       "title": "함께 읽기 · 일을 맡길 때, 어디까지 확인할까요?",
       "group": "people-ai",
       "description": "실행 환경이 달라지는 Cowork와 문서에 직접 반영되는 Workspace 편집을 함께 읽습니다. 서로 다른 기능을 다루며 연구 계보 관계는 아닙니다.",
-      "reviewed_at": null,
+      "reviewed_at": "2026-11-02",
       "steps": [
         {
           "url": "blogs/claude-cowork-cloud.html",
@@ -88,6 +88,11 @@
           "url": "blogs/claude-google-workspace.html",
           "relation": "comparison",
           "reason": "실행 환경이 달라지는 Cowork와 문서에 직접 반영되는 Workspace 편집을 함께 읽습니다. 서로 다른 기능을 다루며 연구 계보 관계는 아닙니다."
+        },
+        {
+          "url": "blogs/2026-11-02-developers-agent-management.html",
+          "relation": "comparison",
+          "reason": "제품 기능 글과 달리 실제 개발자의 지시·확인 업무를 관찰한 연구로, 위임 뒤 무엇을 확인하는지 비교합니다. 같은 기능이나 직접 후속 연구는 아닙니다."
         }
       ]
     },
@@ -134,9 +139,9 @@
     {
       "id": "promises-and-enforcement",
       "anchor": "question-promises-and-enforcement",
-      "title": "AI 사업자의 약속은 어떻게 실제 이행으로 이어질까요?",
+      "title": "AI에 관한 약속이 실행됐는지 무엇으로 확인할까요?",
       "group": "society-world",
-      "description": "모델 안전 감독의 자발적 약속 논의와 콘텐츠 학습 선호 신호의 채택 계획을 나란히 읽습니다. 서로 다른 문제에서 약속과 이행 수단의 차이를 살핍니다.",
+      "description": "기업의 학습 선호 존중 계획과 정부의 접근 지원 의향을 읽으며 약속, 이행 수단, 실제 집행 근거를 구분합니다. 서로 다른 제도와 발표를 비교하는 경로입니다.",
       "reviewed_at": "2026-11-02",
       "steps": [
         {
@@ -148,6 +153,31 @@
           "url": "blogs/2026-11-01-openai-ai-training-preference.html",
           "relation": "comparison",
           "reason": "안전 감독의 구속력 논의와 학습 선호 신호를 존중하겠다는 기업의 계획을 비교하며, 이행에 필요한 참여·장치를 구별합니다. 같은 제도나 직접 후속 관계를 뜻하지 않습니다."
+        },
+        {
+          "url": "blogs/2026-11-02-quad-ai-access-intent.html",
+          "relation": "comparison",
+          "reason": "기업의 학습 선호 존중 계획과 정부의 AI 접근 지원 의향을 비교해 약속과 집행 근거를 구분합니다. 서로 다른 정책이며 직접 후속 관계가 아닙니다."
+        }
+      ]
+    },
+    {
+      "id": "use-and-trust",
+      "anchor": "question-use-and-trust",
+      "title": "AI를 쓰는 이유와 믿는 이유는 어떻게 다를까요?",
+      "group": "people-ai",
+      "description": "소비자의 이용·지출 지표와 신뢰·사용 의향에 관한 설문을 함께 읽습니다. 서로 다른 모집단과 측정이므로 이용률을 신뢰도로 바꾸어 읽지 않습니다.",
+      "reviewed_at": "2026-11-02",
+      "steps": [
+        {
+          "url": "blogs/2026-10-10-a16z-consumer-ai.html",
+          "relation": null,
+          "reason": "사용, 개인 유료 구독, 지출이 서로 다른 지표라는 구분에서 시작합니다. 이 글은 신뢰를 측정한 자료가 아닙니다."
+        },
+        {
+          "url": "blogs/2026-11-02-trust-after-error-briefing.html",
+          "relation": "comparison",
+          "reason": "기존 글은 소비자의 이용·지출을, 이 연구는 자기보고 신뢰와 가상 상황의 사용 의향을 다룹니다. 모집단과 측정이 달라 직접 수치 비교나 후속 연구로 읽지 않습니다."
         }
       ]
     }

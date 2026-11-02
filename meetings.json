@@ -98,6 +98,18 @@
         {
           "title": "안전 검사를 통과했다면, 무엇까지 확인된 걸까요?",
           "href": "blogs/2026-11-02-training-data-monitoring.html"
+        },
+        {
+          "title": "오류 수정을 맡긴 뒤에도 사람이 정해야 하는 것들",
+          "href": "blogs/2026-11-02-developers-agent-management.html"
+        },
+        {
+          "title": "덜 믿는다는 답과 다시 쓰겠다는 답은 무엇이 다를까요?",
+          "href": "blogs/2026-11-02-trust-after-error-briefing.html"
+        },
+        {
+          "title": "‘지원할 의향’이 ‘지원했다’가 되려면",
+          "href": "blogs/2026-11-02-quad-ai-access-intent.html"
         }
       ],
       "edit_log": []
