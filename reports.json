@@ -9,7 +9,7 @@
       "안전 검사를 통과했다면, 무엇까지 확인된 걸까요?",
       "오류 수정을 맡긴 뒤에도 사람이 정해야 하는 것들",
       "덜 믿는다는 답과 다시 쓰겠다는 답은 무엇이 다를까요?",
-      "‘지원할 의향’이 ‘지원했다’가 되려면"
+      "Quad의 8,500만 달러 초과 지원 의향은 무엇을 담았나"
     ],
     "explainers": [
       {
@@ -56,7 +56,7 @@
       },
       {
         "url": "blogs/2026-11-02-quad-ai-access-intent.html",
-        "title": "‘지원할 의향’이 ‘지원했다’가 되려면",
+        "title": "Quad의 8,500만 달러 초과 지원 의향은 무엇을 담았나",
         "writer": "정도윤",
         "author_url": "editorial-room.html#doyun",
         "fictional_writer": true,
@@ -77,14 +77,14 @@
     "timezone": "Asia/Seoul",
     "updated": null,
     "topics": [
-      "여러 AI 사업자에게 같은 선호를 전하는 신호, 아직은 약속의 단계",
-      "궤도에서 온 첫 답변, 어디까지 믿을 수 있을까?",
+      "AI 학습 선호를 한 번에 전하려는 OpenAI의 계획",
+      "궤도 TPU에서 온 Gemma 4의 첫 답변",
       "멀티에이전트 서빙은 왜 ‘전체 작업’을 재야 할까"
     ],
     "explainers": [
       {
         "url": "blogs/2026-11-01-openai-ai-training-preference.html",
-        "title": "여러 AI 사업자에게 같은 선호를 전하는 신호, 아직은 약속의 단계",
+        "title": "AI 학습 선호를 한 번에 전하려는 OpenAI의 계획",
         "writer": "정도윤",
         "author_url": "editorial-room.html#doyun",
         "fictional_writer": true,
@@ -98,7 +98,7 @@
       },
       {
         "url": "blogs/2026-11-01-google-suncatcher-first-response.html",
-        "title": "궤도에서 온 첫 답변, 어디까지 믿을 수 있을까?",
+        "title": "궤도 TPU에서 온 Gemma 4의 첫 답변",
         "writer": "한유리",
         "author_url": "editorial-room.html#yuri",
         "fictional_writer": true,
@@ -118,6 +118,8 @@
         "fictional_writer": true,
         "source_url": "https://arxiv.org/html/2610.40293v1",
         "source_label": "arXiv 프리프린트 원문",
+        "source_published_at": "2026-10-29",
+        "content_kind": "background",
         "visual": "c-agent-tools",
         "cover_key": "c-agent-tools",
         "interest_group": "agents-execution"
