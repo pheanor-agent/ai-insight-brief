@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-11-03",
+    "url": "2026-11-03-daily.html",
+    "title": "2026년 11월 3일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "데이터센터의 전력 약속, 주민이 확인할 수 있어야 할 조건"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-03-grid-protectors.html",
+        "title": "데이터센터의 전력 약속, 주민이 확인할 수 있어야 할 조건",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/grid-protectors-program",
+        "source_label": "OpenAI 공식 발표",
+        "source_published_at": "2026-11-02",
+        "content_kind": "news",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "society-world"
+      }
+    ]
+  },
+  {
     "date": "2026-11-02",
     "url": "2026-11-02-daily.html",
     "title": "2026년 11월 2일 AI 브리프",
