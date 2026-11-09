@@ -1,5 +1,57 @@
 [
   {
+    "date": "2026-11-08",
+    "url": "2026-11-08-daily.html",
+    "title": "2026년 11월 8일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "66.7%는 실험의 성공률이 아닙니다"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-08-agent-science-evidence-r1.html",
+        "title": "66.7%는 실험의 성공률이 아닙니다",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "source_label": "OpenAI 연구 발표",
+        "source_published_at": "2026-11-06",
+        "content_kind": "news",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "agents-execution"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "url": "2026-11-06-daily.html",
+    "title": "2026년 11월 6일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "전력 조절 약속에 더해진 지역 약정과 산업 정책 제안"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-06-openai-community-compact.html",
+        "title": "전력 조절 약속에 더해진 지역 약정과 산업 정책 제안",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+        "source_label": "OpenAI 공식 발표",
+        "source_published_at": "2026-11-05",
+        "content_kind": "follow_up",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "society-world"
+      }
+    ]
+  },
+  {
     "date": "2026-11-03",
     "url": "2026-11-03-daily.html",
     "title": "2026년 11월 3일 AI 브리프",
