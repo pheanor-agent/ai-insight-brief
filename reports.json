@@ -1,5 +1,92 @@
 [
   {
+    "date": "2026-11-14",
+    "url": "2026-11-14-daily.html",
+    "title": "2026년 11월 14일 AI 브리프",
+    "status": "publication_candidate_not_published",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "여러 사용자의 에이전트 팀은 왜 함께할수록 성과가 낮아졌나",
+      "자율 에이전트를 오래 일하게 할수록 기록과 한도가 제품이 된다",
+      "모델 선택을 제품이 맡으면 라우팅도 평가 대상이 됩니다",
+      "스킬과 도구 표준, 공동 거버넌스가 맡을 다음 단계",
+      "세포 조건을 넣으면 변이 효과를 더 세분해 예측합니다"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/worse-together-multi-user-teams.html",
+        "title": "여러 사용자의 에이전트 팀은 왜 함께할수록 성과가 낮아졌나",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://alignment.anthropic.com/2026/worse-together",
+        "source_label": "Anthropic Alignment Science Blog 연구 보고서",
+        "source_published_at": "2026-11-11",
+        "content_kind": "news",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/genie-guardrailed-autonomy.html",
+        "title": "자율 에이전트를 오래 일하게 할수록 기록과 한도가 제품이 된다",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
+        "source_label": "Databricks 제품 발표",
+        "source_published_at": "2026-11-12",
+        "content_kind": "news",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/gemini-4-hydrogen-routing.html",
+        "title": "모델 선택을 제품이 맡으면 라우팅도 평가 대상이 됩니다",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+        "source_label": "Google 제품 발표",
+        "source_published_at": "2026-11-12",
+        "content_kind": "news",
+        "visual": "c-interface",
+        "cover_key": "c-interface",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/aaif-standards.html",
+        "title": "스킬과 도구 표준, 공동 거버넌스가 맡을 다음 단계",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://opensource.googleblog.com/2026/11/scaling-ai-agents-open-standards-mcp-aaif.html",
+        "source_label": "Google Open Source 블로그",
+        "source_published_at": "2026-11-11",
+        "content_kind": "news",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/alphagenome-2-cell-states.html",
+        "title": "세포 조건을 넣으면 변이 효과를 더 세분해 예측합니다",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+        "source_label": "Google DeepMind 연구 블로그",
+        "source_published_at": "2026-11-11",
+        "content_kind": "news",
+        "visual": "c-learning",
+        "cover_key": "c-learning",
+        "interest_group": "agents-execution"
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "url": "2026-11-08-daily.html",
     "title": "2026년 11월 8일 AI 브리프",

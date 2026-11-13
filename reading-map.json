@@ -68,6 +68,11 @@
           "url": "blogs/2026-11-01-maservebench.html",
           "relation": "comparison",
           "reason": "서빙 측정 제안: 협업 workload와 작업 전체 측정을 제안한 프리프린트이며, 독립 성능 재현은 아닙니다."
+        },
+        {
+          "url": "blogs/worse-together-multi-user-teams.html",
+          "relation": "comparison",
+          "reason": "직전 글 MaServeBench가 서빙 처리량이 아니라 협업 워크로드 전체를 재자는 제안이었다면, 이 글은 측정 대상을 사용자 집단의 결과와 행동으로 옮긴 비교다."
         }
       ]
     },
