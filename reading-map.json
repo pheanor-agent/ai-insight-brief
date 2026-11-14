@@ -173,6 +173,11 @@
           "url": "blogs/2026-11-06-openai-community-compact.html",
           "relation": "follow_up",
           "reason": "기존 Grid Protectors 글의 전력 수요조절 약속을 이어, 미국 내 OpenAI 소유·운영 미래 캠퍼스의 지역별 compact·연례 공개와 별도의 산업 정책 제안을 다룹니다. 발표된 약속과 실제 이행 증거는 구분합니다."
+        },
+        {
+          "url": "blogs/2026-11-15-frontier-ai-lawsuit.html",
+          "relation": "comparison",
+          "reason": "기존 경로의 마지막 글은 기업의 자발적 약정과 연례 공개 절차를 다뤘고, 이 글은 같은 대상(프런티어 개발 관행)을 기존 불공정경쟁법을 통한 사법적 강제로 다룬 비교다. 판결이 없어 집행 근거로 확정할 수 없다."
         }
       ]
     },

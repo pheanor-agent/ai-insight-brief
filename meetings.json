@@ -17,6 +17,7 @@
         "title": "오늘의 편집 회의",
         "description": "발행된 기사에서 독자가 살펴볼 질문과 설명의 범위를 짚습니다.",
         "meeting_ids": [
+          "daily-2026-11-15",
           "daily-2026-11-03",
           "daily-2026-11-02",
           "daily-2026-11-01",
@@ -38,6 +39,10 @@
       }
     ],
     "links": [
+      {
+        "title": "2026년 11월 15일 AI 브리프",
+        "href": "2026-11-15-daily.html"
+      },
       {
         "title": "2026년 11월 3일 AI 브리프",
         "href": "2026-11-03-daily.html"
@@ -85,6 +90,40 @@
     ]
   },
   "meetings": [
+    {
+      "id": "daily-2026-11-15",
+      "type": "daily",
+      "date": "2026-11-15",
+      "title": "11월 15일 편집회의",
+      "purpose": "11월 15일 호의 편집 질문과 범위를 다룹니다.",
+      "disclosure": "제공된 공개용 원고를 바탕으로 한 가상 재구성이며 실제 회의 기록이 아닙니다.",
+      "status": "proposed",
+      "source": "provided meeting-public-draft.md",
+      "url": "meeting-room.html#issue-2026-11-15",
+      "related_links": [
+        {
+          "title": "2026년 11월 15일 AI 브리프",
+          "href": "2026-11-15-daily.html"
+        },
+        {
+          "title": "보안 에이전트가 패치를 제안해도 검토는 남습니다",
+          "href": "blogs/2026-11-15-daybreak-security-agents.html"
+        },
+        {
+          "title": "llama.cpp 1.0.0이 정한 공식 배포의 기준",
+          "href": "blogs/2026-11-15-llamacpp-semver.html"
+        },
+        {
+          "title": "괴델의 노트북 1,009쪽, AI가 맡은 전사 이후의 분석",
+          "href": "blogs/2026-11-15-godel-notebooks.html"
+        },
+        {
+          "title": "비영리 단체들, 첨단 AI 개발·배포 중단 가처분 요청",
+          "href": "blogs/2026-11-15-frontier-ai-lawsuit.html"
+        }
+      ],
+      "edit_log": []
+    },
     {
       "id": "daily-2026-11-03",
       "type": "daily",

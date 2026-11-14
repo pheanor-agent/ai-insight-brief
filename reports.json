@@ -1,5 +1,76 @@
 [
   {
+    "date": "2026-11-15",
+    "url": "2026-11-15-daily.html",
+    "title": "2026년 11월 15일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "보안 에이전트가 패치를 제안해도 검토는 남습니다",
+      "llama.cpp 1.0.0이 정한 공식 배포의 기준",
+      "괴델의 노트북 1,009쪽, AI가 맡은 전사 이후의 분석",
+      "비영리 단체들, 첨단 AI 개발·배포 중단 가처분 요청"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-15-daybreak-security-agents.html",
+        "title": "보안 에이전트가 패치를 제안해도 검토는 남습니다",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://developers.openai.com/blog/scaling-cyber-defenders-with-daybreak",
+        "source_label": "OpenAI Developers Blog",
+        "source_published_at": "2026-11-12",
+        "content_kind": "news",
+        "visual": "c-security",
+        "cover_key": "c-security",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-15-llamacpp-semver.html",
+        "title": "llama.cpp 1.0.0이 정한 공식 배포의 기준",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
+        "source_label": "GitHub 릴리스 태그 v1.0.0",
+        "source_published_at": "2026-11-13",
+        "content_kind": "news",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-15-godel-notebooks.html",
+        "title": "괴델의 노트북 1,009쪽, AI가 맡은 전사 이후의 분석",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "source_label": "The Guardian 보도",
+        "source_published_at": "2026-11-13",
+        "content_kind": "news",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-15-frontier-ai-lawsuit.html",
+        "title": "비영리 단체들, 첨단 AI 개발·배포 중단 가처분 요청",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://www.citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks",
+        "source_label": "Public Citizen 보도자료",
+        "source_published_at": "2026-11-12",
+        "content_kind": "news",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "society-world"
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "url": "2026-11-14-daily.html",
     "title": "2026년 11월 14일 AI 브리프",
