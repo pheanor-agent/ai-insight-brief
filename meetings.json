@@ -17,6 +17,7 @@
         "title": "오늘의 편집 회의",
         "description": "발행된 기사에서 독자가 살펴볼 질문과 설명의 범위를 짚습니다.",
         "meeting_ids": [
+          "daily-2026-11-16",
           "daily-2026-11-15",
           "daily-2026-11-03",
           "daily-2026-11-02",
@@ -39,6 +40,10 @@
       }
     ],
     "links": [
+      {
+        "title": "2026년 11월 16일 AI 브리프",
+        "href": "2026-11-16-daily.html"
+      },
       {
         "title": "2026년 11월 15일 AI 브리프",
         "href": "2026-11-15-daily.html"
@@ -90,6 +95,44 @@
     ]
   },
   "meetings": [
+    {
+      "id": "daily-2026-11-16",
+      "type": "daily",
+      "date": "2026-11-16",
+      "title": "11월 16일 편집회의",
+      "purpose": "11월 16일 호의 편집 질문과 범위를 다룹니다.",
+      "disclosure": "제공된 공개용 원고를 바탕으로 한 가상 재구성이며 실제 회의 기록이 아닙니다.",
+      "status": "proposed",
+      "source": "provided meeting-public-draft.md",
+      "url": "meeting-room.html#issue-2026-11-16",
+      "related_links": [
+        {
+          "title": "2026년 11월 16일 AI 브리프",
+          "href": "2026-11-16-daily.html"
+        },
+        {
+          "title": "확장 마켓의 신뢰는 어디에서 끊겼나",
+          "href": "blogs/2026-11-16-cursor-fireworks-supply-chain.html"
+        },
+        {
+          "title": "에이전트 팀의 증명은 무엇을 검사했나",
+          "href": "blogs/2026-11-16-antigravity-teamwork-proofs.html"
+        },
+        {
+          "title": "기록을 읽은 뒤, 에이전트는 무엇을 했나",
+          "href": "blogs/2026-11-16-read-and-ignore-public-service.html"
+        },
+        {
+          "title": "에이전트 결제에서 사람의 승인은 어디에 남나",
+          "href": "blogs/2026-11-16-chatgpt-wallet.html"
+        },
+        {
+          "title": "시장 전문가 23명은 왜 AI를 큰 충격으로 봤나",
+          "href": "blogs/2026-11-16-fed-ai-top-risk.html"
+        }
+      ],
+      "edit_log": []
+    },
     {
       "id": "daily-2026-11-15",
       "type": "daily",

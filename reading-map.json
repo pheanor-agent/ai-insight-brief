@@ -98,6 +98,11 @@
           "url": "blogs/2026-11-02-developers-agent-management.html",
           "relation": "comparison",
           "reason": "제품이 제공하는 위임 기능과 실제 개발자가 지시·확인에 쓴 업무를 비교합니다."
+        },
+        {
+          "url": "blogs/2026-11-16-read-and-ignore-public-service.html",
+          "relation": "comparison",
+          "reason": "경로의 직전 글은 개발자 11명 관찰로 사람이 지시와 확인에 쓰는 시간을 측정했고, 이 연구는 같은 질문을 에이전트의 산출 행동과 지시문 구체성에서 측정한다."
         }
       ]
     },

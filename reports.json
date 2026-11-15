@@ -1,5 +1,91 @@
 [
   {
+    "date": "2026-11-16",
+    "url": "2026-11-16-daily.html",
+    "title": "2026년 11월 16일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "확장 마켓의 신뢰는 어디에서 끊겼나",
+      "에이전트 팀의 증명은 무엇을 검사했나",
+      "기록을 읽은 뒤, 에이전트는 무엇을 했나",
+      "에이전트 결제에서 사람의 승인은 어디에 남나",
+      "시장 전문가 23명은 왜 AI를 큰 충격으로 봤나"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-16-cursor-fireworks-supply-chain.html",
+        "title": "확장 마켓의 신뢰는 어디에서 끊겼나",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://cursor.com/blog/security-incident-update",
+        "source_label": "Cursor 사고 보고",
+        "source_published_at": "2026-11-13",
+        "content_kind": "news",
+        "visual": "c-security",
+        "cover_key": "c-security",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-16-antigravity-teamwork-proofs.html",
+        "title": "에이전트 팀의 증명은 무엇을 검사했나",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+        "source_label": "Google Research 블로그",
+        "source_published_at": "2026-11-13",
+        "content_kind": "news",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-16-read-and-ignore-public-service.html",
+        "title": "기록을 읽은 뒤, 에이전트는 무엇을 했나",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://arxiv.org/abs/2611.15460",
+        "source_label": "arXiv 프리프린트",
+        "source_published_at": "2026-11-11",
+        "content_kind": "news",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-16-chatgpt-wallet.html",
+        "title": "에이전트 결제에서 사람의 승인은 어디에 남나",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "source_label": "OpenAI 발표문",
+        "source_published_at": "2026-11-13",
+        "content_kind": "news",
+        "visual": "c-interface",
+        "cover_key": "c-interface",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-16-fed-ai-top-risk.html",
+        "title": "시장 전문가 23명은 왜 AI를 큰 충격으로 봤나",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+        "source_label": "연준 금융안정보고서",
+        "source_published_at": "2026-11-13",
+        "content_kind": "news",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "society-world"
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "url": "2026-11-15-daily.html",
     "title": "2026년 11월 15일 AI 브리프",
