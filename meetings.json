@@ -17,6 +17,7 @@
         "title": "오늘의 편집 회의",
         "description": "발행된 기사에서 독자가 살펴볼 질문과 설명의 범위를 짚습니다.",
         "meeting_ids": [
+          "daily-2026-11-17",
           "daily-2026-11-16",
           "daily-2026-11-15",
           "daily-2026-11-03",
@@ -40,6 +41,10 @@
       }
     ],
     "links": [
+      {
+        "title": "11월 17일 리포트",
+        "href": "2026-11-17-daily.html"
+      },
       {
         "title": "2026년 11월 16일 AI 브리프",
         "href": "2026-11-16-daily.html"
@@ -95,6 +100,40 @@
     ]
   },
   "meetings": [
+    {
+      "id": "daily-2026-11-17",
+      "type": "daily",
+      "date": "2026-11-17",
+      "title": "11월 17일 편집회의",
+      "purpose": "11월 17일 호의 편집 질문과 범위를 다룹니다.",
+      "disclosure": "제공된 공개용 원고를 바탕으로 한 가상 재구성이며 실제 회의 기록이 아닙니다.",
+      "publication_status": "publication_candidate_not_published",
+      "status": "proposed",
+      "source": "provided meeting-public-draft.md",
+      "url": "meeting-room.html#issue-2026-11-17",
+      "related_links": [
+        {
+          "title": "2026년 11월 17일 AI 브리프",
+          "href": "2026-11-17-daily.html"
+        },
+        {
+          "title": "연구자 20만 명에게 무료 접근을 넓힐 때 바뀌는 것과 그대로 남는 판단",
+          "href": "blogs/2026-11-17-openai-academic-research.html"
+        },
+        {
+          "title": "CSAM 분류기를 외부에 열 때, 도구를 받는 쪽이 확인해야 할 것",
+          "href": "blogs/2026-11-17-openai-csam-tools.html"
+        },
+        {
+          "title": "2.4조 중 710억만 켜는 설계, 과제당 비용 60% 절감이 가리키는 곳",
+          "href": "blogs/2026-11-17-qwen4-max-cost.html"
+        },
+        {
+          "title": "AI Act의 약속이 서식으로 오는 날, 같은 날 온 평가 역량의 권고",
+          "href": "blogs/2026-11-17-eu-fria-template.html"
+        }
+      ]
+    },
     {
       "id": "daily-2026-11-16",
       "type": "daily",

@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-11-17",
+    "url": "2026-11-17-daily.html",
+    "title": "2026년 11월 17일 AI 브리프",
+    "status": "publication_candidate_not_published",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "연구자 20만 명에게 무료 접근을 넓힐 때 바뀌는 것과 그대로 남는 판단",
+      "CSAM 분류기를 외부에 열 때, 도구를 받는 쪽이 확인해야 할 것",
+      "2.4조 중 710억만 켜는 설계, 과제당 비용 60% 절감이 가리키는 곳",
+      "AI Act의 약속이 서식으로 오는 날, 같은 날 온 평가 역량의 권고"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-17-openai-academic-research.html",
+        "title": "연구자 20만 명에게 무료 접근을 넓힐 때 바뀌는 것과 그대로 남는 판단",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+        "source_label": "OpenAI 발표문",
+        "source_published_at": "2026-11-16",
+        "content_kind": "news",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-17-openai-csam-tools.html",
+        "title": "CSAM 분류기를 외부에 열 때, 도구를 받는 쪽이 확인해야 할 것",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/strengthening-online-child-safety",
+        "source_label": "OpenAI 발표문",
+        "source_published_at": "2026-11-16",
+        "content_kind": "news",
+        "visual": "c-security",
+        "cover_key": "c-security",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-17-qwen4-max-cost.html",
+        "title": "2.4조 중 710억만 켜는 설계, 과제당 비용 60% 절감이 가리키는 곳",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max",
+        "source_label": "Alibaba Cloud 보도자료",
+        "source_published_at": "2026-11-16",
+        "content_kind": "news",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-17-eu-fria-template.html",
+        "title": "AI Act의 약속이 서식으로 오는 날, 같은 날 온 평가 역량의 권고",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act",
+        "source_label": "EU 집행위 공지",
+        "source_published_at": "2026-11-16",
+        "content_kind": "news",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "society-world"
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "url": "2026-11-16-daily.html",
     "title": "2026년 11월 16일 AI 브리프",
