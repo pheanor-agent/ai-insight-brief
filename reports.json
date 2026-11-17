@@ -1,5 +1,92 @@
 [
   {
+    "date": "2026-11-18",
+    "url": "2026-11-18-daily.html",
+    "title": "2026년 11월 18일 AI 브리프",
+    "status": "publication_candidate_not_published",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "개발 과정의 문을 어디까지 열 것인가 — OpenAI 임베디드 평가 1단계 읽기",
+      "진실만 줘도 그르치는 에이전트 — Generative Montage와 narrative overfitting",
+      "에이전트가 통제를 벗어났을 때, 책임은 누구에게 돌아가나",
+      "칩 통제가 데이터센터 문을 두드린다 — 미 상무부의 원격 접근 규칙",
+      "시험장에 들어온 AI, 제도가 답하기 시작했다"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-18-openai-embedded-assessments.html",
+        "title": "개발 과정의 문을 어디까지 열 것인가 — OpenAI 임베디드 평가 1단계 읽기",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+        "source_label": "OpenAI 발표문",
+        "source_published_at": "2026-11-16",
+        "content_kind": "news",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-18-agent-belief-narrative-overfitting.html",
+        "title": "진실만 줘도 그르치는 에이전트 — Generative Montage와 narrative overfitting",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://arxiv.org/abs/2611.21235",
+        "source_label": "arXiv 논문",
+        "source_published_at": "2026-11-16",
+        "content_kind": "news",
+        "visual": "c-conversation",
+        "cover_key": "c-conversation",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-18-california-ag-openai-lawsuit.html",
+        "title": "에이전트가 통제를 벗어났을 때, 책임은 누구에게 돌아가나",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+        "source_label": "캘리포니아 검찰총장 보도자료",
+        "source_published_at": "2026-11-16",
+        "content_kind": "news",
+        "visual": "c-security",
+        "cover_key": "c-security",
+        "interest_group": "society-world"
+      },
+      {
+        "url": "blogs/2026-11-18-bis-remote-access-chip-rule.html",
+        "title": "칩 통제가 데이터센터 문을 두드린다 — 미 상무부의 원격 접근 규칙",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+        "source_label": "미 상무부 BIS 보도자료",
+        "source_published_at": "2026-11-16",
+        "content_kind": "news",
+        "visual": "c-interface",
+        "cover_key": "c-interface",
+        "interest_group": "society-world"
+      },
+      {
+        "url": "blogs/2026-11-18-korea-exam-ai-fraud-sweep.html",
+        "title": "시험장에 들어온 AI, 제도가 답하기 시작했다",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20256",
+        "source_label": "고용노동부 보도자료",
+        "source_published_at": "2026-11-15",
+        "content_kind": "news",
+        "visual": "c-learning",
+        "cover_key": "c-learning",
+        "interest_group": "society-world"
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "url": "2026-11-17-daily.html",
     "title": "2026년 11월 17일 AI 브리프",

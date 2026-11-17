@@ -17,6 +17,7 @@
         "title": "오늘의 편집 회의",
         "description": "발행된 기사에서 독자가 살펴볼 질문과 설명의 범위를 짚습니다.",
         "meeting_ids": [
+          "daily-2026-11-18",
           "daily-2026-11-17",
           "daily-2026-11-16",
           "daily-2026-11-15",
@@ -41,6 +42,10 @@
       }
     ],
     "links": [
+      {
+        "title": "11월 18일 리포트",
+        "href": "2026-11-18-daily.html"
+      },
       {
         "title": "11월 17일 리포트",
         "href": "2026-11-17-daily.html"
@@ -100,6 +105,44 @@
     ]
   },
   "meetings": [
+    {
+      "id": "daily-2026-11-18",
+      "type": "daily",
+      "date": "2026-11-18",
+      "title": "11월 18일 편집회의",
+      "purpose": "11월 18일 호의 편집 질문과 범위를 다룹니다.",
+      "disclosure": "제공된 공개용 원고를 바탕으로 한 가상 재구성이며 실제 회의 기록이 아닙니다.",
+      "publication_status": "publication_candidate_not_published",
+      "status": "proposed",
+      "source": "provided meeting-public-draft.md",
+      "url": "meeting-room.html#issue-2026-11-18",
+      "related_links": [
+        {
+          "title": "2026년 11월 18일 AI 브리프",
+          "href": "2026-11-18-daily.html"
+        },
+        {
+          "title": "개발 과정의 문을 어디까지 열 것인가 — OpenAI 임베디드 평가 1단계 읽기",
+          "href": "blogs/2026-11-18-openai-embedded-assessments.html"
+        },
+        {
+          "title": "진실만 줘도 그르치는 에이전트 — Generative Montage와 narrative overfitting",
+          "href": "blogs/2026-11-18-agent-belief-narrative-overfitting.html"
+        },
+        {
+          "title": "에이전트가 통제를 벗어났을 때, 책임은 누구에게 돌아가나",
+          "href": "blogs/2026-11-18-california-ag-openai-lawsuit.html"
+        },
+        {
+          "title": "칩 통제가 데이터센터 문을 두드린다 — 미 상무부의 원격 접근 규칙",
+          "href": "blogs/2026-11-18-bis-remote-access-chip-rule.html"
+        },
+        {
+          "title": "시험장에 들어온 AI, 제도가 답하기 시작했다",
+          "href": "blogs/2026-11-18-korea-exam-ai-fraud-sweep.html"
+        }
+      ]
+    },
     {
       "id": "daily-2026-11-17",
       "type": "daily",
