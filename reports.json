@@ -1,5 +1,92 @@
 [
   {
+    "date": "2026-11-20",
+    "url": "2026-11-20-daily.html",
+    "title": "2026년 11월 20일 AI 브리프",
+    "status": "ready_not_published",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "23퍼센트에서 46퍼센트로: OpenAI가 내놓은 자기 연구실의 자동화 지도",
+      "도구를 요청마다 다 밀어 넣지 않는 법: Gemini API의 Tool Retrieval",
+      "벨이 울린 뒤에 물어볼 수 있는 것: Anthropic의 상장과 속도조절 약속",
+      "발언과 합의 사이: 선전 정상회담이 보여 준 AI 통제의 네 가지 수단",
+      "권고는 언제 규칙이 되는가: 캘리포니아의 AI 안전 권고안"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-20-openai-research-acceleration-rsi.html",
+        "title": "23퍼센트에서 46퍼센트로: OpenAI가 내놓은 자기 연구실의 자동화 지도",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/research-acceleration-jagged-frontier/",
+        "source_label": "OpenAI 연구 보고서",
+        "source_published_at": "2026-11-18",
+        "content_kind": "news",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-20-gemini-tool-retrieval.html",
+        "title": "도구를 요청마다 다 밀어 넣지 않는 법: Gemini API의 Tool Retrieval",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+        "source_label": "Google 공식 블로그",
+        "source_published_at": "2026-11-19",
+        "content_kind": "news",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-20-anthropic-ipo-pacing.html",
+        "title": "벨이 울린 뒤에 물어볼 수 있는 것: Anthropic의 상장과 속도조절 약속",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+        "source_label": "TechCrunch 보도",
+        "source_published_at": "2026-11-19",
+        "content_kind": "news",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-20-trump-xi-ai-governance.html",
+        "title": "발언과 합의 사이: 선전 정상회담이 보여 준 AI 통제의 네 가지 수단",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://www.euronews.com/2026/11/19/us-president-trump-rejects-global-ai-regulation-as-chinas-xi-calls-for-cooperation-on-safe",
+        "source_label": "Euronews 보도",
+        "source_published_at": "2026-11-19",
+        "content_kind": "news",
+        "visual": "c-interface",
+        "cover_key": "c-interface",
+        "interest_group": "society-world"
+      },
+      {
+        "url": "blogs/2026-11-20-california-ai-oversight-rsi-cap.html",
+        "title": "권고는 언제 규칙이 되는가: 캘리포니아의 AI 안전 권고안",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/",
+        "source_label": "캘리포니아 주지사실 발표",
+        "source_published_at": "2026-11-18",
+        "content_kind": "follow_up",
+        "visual": "c-security",
+        "cover_key": "c-security",
+        "interest_group": "society-world"
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "url": "2026-11-18-daily.html",
     "title": "2026년 11월 18일 AI 브리프",

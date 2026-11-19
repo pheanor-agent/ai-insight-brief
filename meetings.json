@@ -17,6 +17,7 @@
         "title": "오늘의 편집 회의",
         "description": "발행된 기사에서 독자가 살펴볼 질문과 설명의 범위를 짚습니다.",
         "meeting_ids": [
+          "daily-2026-11-20",
           "daily-2026-11-18",
           "daily-2026-11-17",
           "daily-2026-11-16",
@@ -42,6 +43,10 @@
       }
     ],
     "links": [
+      {
+        "title": "11월 20일 리포트",
+        "href": "2026-11-20-daily.html"
+      },
       {
         "title": "11월 18일 리포트",
         "href": "2026-11-18-daily.html"
@@ -105,6 +110,44 @@
     ]
   },
   "meetings": [
+    {
+      "id": "daily-2026-11-20",
+      "type": "daily",
+      "date": "2026-11-20",
+      "title": "11월 20일 편집회의",
+      "purpose": "11월 20일 호의 편집 질문과 범위를 다룹니다.",
+      "disclosure": "제공된 공개용 원고를 바탕으로 한 가상 재구성이며 실제 회의 기록이 아닙니다.",
+      "publication_status": "ready_not_published",
+      "status": "proposed",
+      "source": "provided meeting-public-draft.md",
+      "url": "meeting-room.html#issue-2026-11-20",
+      "related_links": [
+        {
+          "title": "2026년 11월 20일 AI 브리프",
+          "href": "2026-11-20-daily.html"
+        },
+        {
+          "title": "23퍼센트에서 46퍼센트로: OpenAI가 내놓은 자기 연구실의 자동화 지도",
+          "href": "blogs/2026-11-20-openai-research-acceleration-rsi.html"
+        },
+        {
+          "title": "도구를 요청마다 다 밀어 넣지 않는 법: Gemini API의 Tool Retrieval",
+          "href": "blogs/2026-11-20-gemini-tool-retrieval.html"
+        },
+        {
+          "title": "벨이 울린 뒤에 물어볼 수 있는 것: Anthropic의 상장과 속도조절 약속",
+          "href": "blogs/2026-11-20-anthropic-ipo-pacing.html"
+        },
+        {
+          "title": "발언과 합의 사이: 선전 정상회담이 보여 준 AI 통제의 네 가지 수단",
+          "href": "blogs/2026-11-20-trump-xi-ai-governance.html"
+        },
+        {
+          "title": "권고는 언제 규칙이 되는가: 캘리포니아의 AI 안전 권고안",
+          "href": "blogs/2026-11-20-california-ai-oversight-rsi-cap.html"
+        }
+      ]
+    },
     {
       "id": "daily-2026-11-18",
       "type": "daily",
