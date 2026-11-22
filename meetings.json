@@ -17,6 +17,7 @@
         "title": "오늘의 편집 회의",
         "description": "발행된 기사에서 독자가 살펴볼 질문과 설명의 범위를 짚습니다.",
         "meeting_ids": [
+          "daily-2026-11-23",
           "daily-2026-11-22",
           "daily-2026-11-20",
           "daily-2026-11-18",
@@ -44,6 +45,10 @@
       }
     ],
     "links": [
+      {
+        "title": "11월 23일 리포트",
+        "href": "2026-11-23-daily.html"
+      },
       {
         "title": "11월 22일 리포트",
         "href": "2026-11-22-daily.html"
@@ -115,6 +120,44 @@
     ]
   },
   "meetings": [
+    {
+      "id": "daily-2026-11-23",
+      "type": "daily",
+      "date": "2026-11-23",
+      "title": "11월 23일 편집회의",
+      "purpose": "11월 23일 호의 편집 질문과 범위를 다룹니다.",
+      "disclosure": "제공된 공개용 원고를 바탕으로 한 가상 재구성이며 실제 회의 기록이 아닙니다.",
+      "publication_status": "publication_candidate_not_published",
+      "status": "proposed",
+      "source": "provided meeting-public-draft.md",
+      "url": "meeting-room.html#issue-2026-11-23",
+      "related_links": [
+        {
+          "title": "2026년 11월 23일 AI 브리프",
+          "href": "2026-11-23-daily.html"
+        },
+        {
+          "title": "'3.6개월마다 두 배'는 무엇을 확인한 측정인가",
+          "href": "blogs/2026-11-23-metr-capability-update.html"
+        },
+        {
+          "title": "원칙이 나눈 것과 남겨둔 것 — NGA 주지사들의 AI 거버넌스 선언",
+          "href": "blogs/2026-11-23-nga-governors-ai-principles.html"
+        },
+        {
+          "title": "사퇴는 무엇의 책임을 옮긴 것인가",
+          "href": "blogs/2026-11-23-korea-csat-minister-resignation.html"
+        },
+        {
+          "title": "관리자가 막을 수 있는 것과 못 막는 것",
+          "href": "blogs/2026-11-23-claude-computer-use-team-enterprise.html"
+        },
+        {
+          "title": "손에서 자격증명을 빼면 무엇이 달라지나 — 구글의 에이전트용 컴퓨트 설계",
+          "href": "blogs/2026-11-23-google-agent-compute-engine.html"
+        }
+      ]
+    },
     {
       "id": "daily-2026-11-22",
       "type": "daily",

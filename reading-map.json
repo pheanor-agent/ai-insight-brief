@@ -148,6 +148,11 @@
           "url": "blogs/2026-11-22-openai-medchembench.html",
           "relation": "comparison",
           "reason": "직전 노드(궤도 시제품 응답 분석)와 비교 축 — 벤더 자체 벤치마크가 확인하는 과제(구조 재구성)와 확인하지 않는 과제(화합물 선택·수치 예측·실제 약물 발견)의 경계를 다룸"
+        },
+        {
+          "url": "blogs/2026-11-23-metr-capability-update.html",
+          "relation": "comparison",
+          "reason": "직전 노드(MedChemBench 해설)가 벤더가 스스로 공개한 확인 범위를 다뤘다면, 이 글은 독립 평가자가 같은 'AI가 긴 과제를 한다' 주장을 별도 조건으로 측정한 사례다. 확인 주체가 벤더에서 독립으로 바뀌는 같은 축의 비교 노드다."
         }
       ]
     },

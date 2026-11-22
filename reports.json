@@ -1,5 +1,92 @@
 [
   {
+    "date": "2026-11-23",
+    "url": "2026-11-23-daily.html",
+    "title": "2026년 11월 23일 AI 브리프",
+    "status": "publication_candidate_not_published",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "'3.6개월마다 두 배'는 무엇을 확인한 측정인가",
+      "원칙이 나눈 것과 남겨둔 것 — NGA 주지사들의 AI 거버넌스 선언",
+      "사퇴는 무엇의 책임을 옮긴 것인가",
+      "관리자가 막을 수 있는 것과 못 막는 것",
+      "손에서 자격증명을 빼면 무엇이 달라지나 — 구글의 에이전트용 컴퓨트 설계"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-23-metr-capability-update.html",
+        "title": "'3.6개월마다 두 배'는 무엇을 확인한 측정인가",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+        "source_label": "METR 평가 보고서",
+        "source_published_at": "2026-11-20",
+        "content_kind": "news",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-23-nga-governors-ai-principles.html",
+        "title": "원칙이 나눈 것과 남겨둔 것 — NGA 주지사들의 AI 거버넌스 선언",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://www.nga.org/news/press-releases/governors-call-for-ai-action/",
+        "source_label": "NGA 보도자료",
+        "source_published_at": "2026-11-22",
+        "content_kind": "news",
+        "visual": "c-security",
+        "cover_key": "c-security",
+        "interest_group": "society-world"
+      },
+      {
+        "url": "blogs/2026-11-23-korea-csat-minister-resignation.html",
+        "title": "사퇴는 무엇의 책임을 옮긴 것인가",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://en.yna.co.kr/view/AEN20261122001051315",
+        "source_label": "연합뉴스 보도",
+        "source_published_at": "2026-11-22",
+        "content_kind": "follow_up",
+        "visual": "c-learning",
+        "cover_key": "c-learning",
+        "interest_group": "society-world"
+      },
+      {
+        "url": "blogs/2026-11-23-claude-computer-use-team-enterprise.html",
+        "title": "관리자가 막을 수 있는 것과 못 막는 것",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://support.claude.com/en/articles/12138966-release-notes",
+        "source_label": "Anthropic 공식 릴리스 노트",
+        "source_published_at": "2026-11-20",
+        "content_kind": "news",
+        "visual": "c-interface",
+        "cover_key": "c-interface",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-23-google-agent-compute-engine.html",
+        "title": "손에서 자격증명을 빼면 무엇이 달라지나 — 구글의 에이전트용 컴퓨트 설계",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive",
+        "source_label": "Google Cloud 기술 블로그",
+        "source_published_at": "2026-10-22",
+        "content_kind": "background",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "agents-execution"
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "url": "2026-11-22-daily.html",
     "title": "2026년 11월 22일 AI 브리프",
