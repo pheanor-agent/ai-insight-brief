@@ -153,6 +153,11 @@
           "url": "blogs/2026-11-23-metr-capability-update.html",
           "relation": "comparison",
           "reason": "직전 노드(MedChemBench 해설)가 벤더가 스스로 공개한 확인 범위를 다뤘다면, 이 글은 독립 평가자가 같은 'AI가 긴 과제를 한다' 주장을 별도 조건으로 측정한 사례다. 확인 주체가 벤더에서 독립으로 바뀌는 같은 축의 비교 노드다."
+        },
+        {
+          "url": "blogs/2026-11-24-riemann-proof-certification.html",
+          "relation": "comparison",
+          "reason": "직전 노드(METR 해설)가 독립 평가자의 측정이 확인한 것을 다뤘다면, 이 글은 형식 검증 커뮤니티의 인증이 확인한 것(명제의 올바름)과 확인하지 않는 것(사람의 이해·논문 평가)의 경계를 다룬 같은 축의 비교 노드다."
         }
       ]
     },
