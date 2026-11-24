@@ -7,16 +7,16 @@
     "timezone": "Asia/Seoul",
     "updated": null,
     "topics": [
-      "리만 가설 증명을 기계가 먼저 인증했습니다. 우리가 확인한 것과 아닌 것",
+      "리만 가설 증명, 동료 심사보다 기계 인증이 먼저 나왔다",
       "AI 개발이 개인정보를 쓰려면 심의부터 거쳐야 한다",
-      "Walmart가 에이전트 쇼핑의 결제까지 열었다. 내가 통제할 수 있는 것은 세 가지다",
+      "Walmart가 AI 에이전트에게 결제까지 맡겼다, 지출 한도는 사용자가 정한다",
       "27B 로봇 조작 모델 가중치가 신청 없이 공개됐다 — 달라지는 것은 성능이 아니라 검증일 수 있다",
       "OpenAI가 연구자용 ChatGPT를 선착순으로 열었다. 추첨은 왜 사라졌을까"
     ],
     "explainers": [
       {
         "url": "blogs/2026-11-24-riemann-proof-certification.html",
-        "title": "리만 가설 증명을 기계가 먼저 인증했습니다. 우리가 확인한 것과 아닌 것",
+        "title": "리만 가설 증명, 동료 심사보다 기계 인증이 먼저 나왔다",
         "writer": "한유리",
         "author_url": "editorial-room.html#yuri",
         "fictional_writer": true,
@@ -44,7 +44,7 @@
       },
       {
         "url": "blogs/2026-11-24-agent-shopping-gateway.html",
-        "title": "Walmart가 에이전트 쇼핑의 결제까지 열었다. 내가 통제할 수 있는 것은 세 가지다",
+        "title": "Walmart가 AI 에이전트에게 결제까지 맡겼다, 지출 한도는 사용자가 정한다",
         "writer": "윤서진",
         "author_url": "editorial-room.html#seojin",
         "fictional_writer": true,
