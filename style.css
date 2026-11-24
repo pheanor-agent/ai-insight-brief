@@ -612,3 +612,27 @@ footer p>a+a,footer .fiction-disclosure a{margin-left:0}
 @media(max-width:760px){.topic-filters{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.topic-filters label:first-child{grid-column:1/-1}.route-steps{grid-template-columns:minmax(0,1fr);gap:10px;padding:0}.route-connection:before{content:"↓ ";}.route-graph{display:none}.reading-route{padding:14px}.question-route-nav ul,.all-articles{grid-template-columns:minmax(0,1fr)}}
 @media(max-width:700px){.issue-band{min-height:104px;padding-block:14px}.issue-band .signal-network{height:88px;width:40%}.issue-band h1{font-size:1.45rem}.meeting-page .meeting-card{padding:14px 0;margin:14px 0}}
 @media(max-width:380px){.topic-explorer{padding:14px 0}.topic-filters{grid-template-columns:minmax(0,1fr)}.topic-filters label:first-child{grid-column:auto}.all-articles>li{grid-template-columns:56px minmax(0,1fr)}.all-articles .topic-card-visual{width:56px;height:56px}}
+
+/* 2026-11-24 개편: 사이트 소개 · 대표 소식 · 확인 상태 · 출처 · 찾기 · 보관 */
+.site-intro{margin:12px 0 0;max-width:36em;color:#d4e6dd;font-size:1rem;line-height:1.65}
+.report-shell article.story:first-of-type{grid-template-columns:minmax(0,1fr);margin-bottom:64px;padding-bottom:40px;border-bottom:1px solid var(--line)}
+.report-shell article.story:first-of-type>figure.story-visual{grid-column:1;grid-row:auto;order:0;position:static;width:100%;height:auto;aspect-ratio:21/9;max-height:300px!important;margin:0 0 22px}
+.report-shell article.story:first-of-type>h2,.report-shell article.story:first-of-type>p,.report-shell article.story:first-of-type>details{grid-column:1}
+.report-shell article.story:first-of-type>h2{font-size:clamp(1.55rem,2.4vw,2.05rem);line-height:1.32}
+.report-shell article.story:first-of-type>.story-lead{color:var(--ink);font-size:1.05rem;line-height:1.75}
+.check-status{margin:44px 0 0;padding:20px 24px;border:1px solid var(--line);border-left:4px solid var(--green);border-radius:12px;background:var(--surface)}
+.check-status h2{margin:0 0 10px;font-size:1.05rem}
+.check-status ul{margin:0;padding-left:1.1em}
+.check-status li{margin:6px 0;line-height:1.65}
+.article-sources{margin:40px 0 0;padding-top:20px;border-top:1px solid var(--line)}
+.article-sources h2{margin:0 0 10px;font-size:1.05rem}
+.article-sources ul{margin:0;padding-left:1.1em}
+.article-sources li{margin:6px 0;font-size:.95rem;line-height:1.6;overflow-wrap:anywhere}
+#archive-search{display:block;width:100%;max-width:28rem;min-height:44px;margin:0 0 24px;padding:10px 14px;border:1px solid var(--line-strong,#9aa69f);border-radius:10px;background:var(--surface);color:var(--ink);font:inherit}
+#archive-search:focus-visible{outline:3px solid var(--green);outline-offset:2px}
+details.meeting-archive{margin:48px 0 0;border-top:1px solid var(--line);padding-top:16px}
+details.meeting-archive>summary{min-height:44px;display:flex;align-items:center;cursor:pointer;font-weight:700;color:var(--ink)}
+:focus-visible{outline:3px solid var(--green);outline-offset:3px}
+@media(max-width:700px){.report-shell article.story:first-of-type>figure.story-visual{aspect-ratio:16/9;max-height:220px!important}.check-status{padding:16px 18px}}
+.report-page > header.masthead .brand{font-size:1rem;letter-spacing:0}
+.meeting-status-guide{color:var(--muted);font-size:.88rem}
