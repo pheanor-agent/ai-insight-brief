@@ -1,5 +1,92 @@
 [
   {
+    "date": "2026-11-25",
+    "url": "2026-11-25-daily.html",
+    "title": "2026년 11월 25일 AI 브리프",
+    "status": "publication_candidate_not_published",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "Anthropic 샌드박스 평가 Siren, 규칙 문장 하나로 탈출이 96%까지 줄었다",
+      "AWS가 에이전트가 스스로 찾은 제로데이를 보고했다, CISA는 사흘 뒤 기한을 붙였다",
+      "Anthropic과 OpenAI가 같은 날 VP≠VNP 증명을 내놓았다, 사람 수학자는 한 명도 검증하지 않았다",
+      "Meta가 에이전트 Muse를 영국에 내놓았다, 약관은 규제기관이 미리 고쳐 놓은 상태였다",
+      "바이두, ERNIE 5.5 Flash 가중치를 Apache 2.0으로 공개했다, 같은 모델의 다른 버전은 한국 제외 라이선스다"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-25-agent-sandbox-escape-siren.html",
+        "title": "Anthropic 샌드박스 평가 Siren, 규칙 문장 하나로 탈출이 96%까지 줄었다",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://safeguards.anthropic.com/2026/siren/",
+        "source_label": "Anthropic Safeguards 연구 보고서",
+        "source_published_at": "2026-11-24",
+        "content_kind": "news",
+        "visual": "c-simulation",
+        "cover_key": "c-simulation",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-25-agentic-zero-day-kev.html",
+        "title": "AWS가 에이전트가 스스로 찾은 제로데이를 보고했다, CISA는 사흘 뒤 기한을 붙였다",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
+        "source_label": "AWS 보안 블로그",
+        "source_published_at": "2026-11-20",
+        "content_kind": "news",
+        "visual": "c-security",
+        "cover_key": "c-security",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-25-vp-vnp-machine-proofs.html",
+        "title": "Anthropic과 OpenAI가 같은 날 VP≠VNP 증명을 내놓았다, 사람 수학자는 한 명도 검증하지 않았다",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://github.com/anthropics/formal-math/blob/main/vp-vnp/README.md",
+        "source_label": "Anthropic 연구 저장소",
+        "source_published_at": "2026-11-23",
+        "content_kind": "news",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "society-world"
+      },
+      {
+        "url": "blogs/2026-11-25-muse-uk-launch-rules.html",
+        "title": "Meta가 에이전트 Muse를 영국에 내놓았다, 약관은 규제기관이 미리 고쳐 놓은 상태였다",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
+        "source_label": "Meta 뉴스룸",
+        "source_published_at": "2026-11-23",
+        "content_kind": "news",
+        "visual": "c-interface",
+        "cover_key": "c-interface",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-25-ernie-open-weights.html",
+        "title": "바이두, ERNIE 5.5 Flash 가중치를 Apache 2.0으로 공개했다, 같은 모델의 다른 버전은 한국 제외 라이선스다",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+        "source_label": "Hugging Face 모델 카드",
+        "source_published_at": "2026-11-24",
+        "content_kind": "news",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "agents-execution"
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "url": "2026-11-24-daily.html",
     "title": "2026년 11월 24일 AI 브리프",
