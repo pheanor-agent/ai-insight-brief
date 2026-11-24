@@ -4,7 +4,7 @@
     {
       "id": "supervise",
       "anchor": "question-supervise",
-      "title": "AI의 행동을 믿기 위해 어느 단계에서 무엇을 확인할까요?",
+      "title": "에이전트가 일하는 동안 사람은 언제 끼어들어야 할까요?",
       "group": "agents-execution",
       "description": "실행 중 행동 감독, 학습 자료의 행별 검사, 학습 후 행동 평가가 각각 무엇을 확인하는지 비교합니다. 연구 대상과 조건을 나누어 읽습니다.",
       "reviewed_at": "2026-11-02",
@@ -124,7 +124,7 @@
     {
       "id": "real-world-evidence",
       "anchor": "question-real-world-evidence",
-      "title": "AI가 작동했다는 말은 무엇을 확인한 걸까요?",
+      "title": "드론·실험실 로봇·궤도 시제품, 실제로 해낸 것은 어디까지일까요?",
       "group": "agents-execution",
       "description": "드론 임무, 실험실 로봇, 궤도 시제품에서 출력 형식·실제 수행·지속 운용이 각각 어디까지 확인됐는지 비교합니다. 서로 다른 연구와 시연을 묶은 읽기 순서입니다.",
       "reviewed_at": "2026-11-02",
@@ -164,7 +164,7 @@
     {
       "id": "promises-and-enforcement",
       "anchor": "question-promises-and-enforcement",
-      "title": "AI에 관한 약속이 실행됐는지 무엇으로 확인할까요?",
+      "title": "AI 기업과 정부의 약속, 지켜졌는지 어디서 알 수 있을까요?",
       "group": "society-world",
       "description": "기업의 학습 선호 존중 계획과 정부의 접근 지원 의향을 읽으며 약속, 이행 수단, 실제 집행 근거를 구분합니다. 서로 다른 제도와 발표를 비교하는 경로입니다.",
       "reviewed_at": "2026-11-02",
