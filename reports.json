@@ -1,5 +1,76 @@
 [
   {
+    "date": "2026-11-26",
+    "url": "2026-11-26-daily.html",
+    "title": "2026년 11월 26일 AI 브리프",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "NVIDIA 보안 연구, 고양이 사진 한 장이 요약 모델에게 셸 명령을 실행시켰다",
+      "XPENG 인간형 로봇 IRON, 내년 1분기부터 매장에서 점원 일을 배운다",
+      "SenseNova U1.6, 자기 그림의 오타를 스스로 고친다",
+      "OpenAI GPT-6, 전문 모델 없이 설계한 단백질 5곳에서 결합 증거를 냈다"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-26-nvidia-adversarial-image-toolcall.html",
+        "title": "NVIDIA 보안 연구, 고양이 사진 한 장이 요약 모델에게 셸 명령을 실행시켰다",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://research.nvidia.com/ai-security/steering-multimodal-models-acting",
+        "source_label": "NVIDIA Research 블로그",
+        "source_published_at": "2026-11-25",
+        "content_kind": "news",
+        "visual": "c-security",
+        "cover_key": "c-security",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-26-xpeng-iron-turing.html",
+        "title": "XPENG 인간형 로봇 IRON, 내년 1분기부터 매장에서 점원 일을 배운다",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174",
+        "source_label": "XPENG 공식 뉴스룸",
+        "source_published_at": "2026-11-25",
+        "content_kind": "news",
+        "visual": "c-simulation",
+        "cover_key": "c-simulation",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-26-sensenova-u16-open-weights.html",
+        "title": "SenseNova U1.6, 자기 그림의 오타를 스스로 고친다",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://www.sensetime.com/cn/news/sensenova-u1-6-open-source-20261124-1152",
+        "source_label": "SenseTime 공식 발표",
+        "source_published_at": "2026-11-24",
+        "content_kind": "news",
+        "visual": "c-creative",
+        "cover_key": "c-creative",
+        "interest_group": "society-world"
+      },
+      {
+        "url": "blogs/2026-11-26-gpt6-protein-design.html",
+        "title": "OpenAI GPT-6, 전문 모델 없이 설계한 단백질 5곳에서 결합 증거를 냈다",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+        "source_label": "OpenAI 공식 발표",
+        "source_published_at": "2026-11-24",
+        "content_kind": "news",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "society-world"
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "url": "2026-11-25-daily.html",
     "title": "2026년 11월 25일 AI 브리프",
