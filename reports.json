@@ -23,7 +23,7 @@
         "source_published_at": "2026-11-25",
         "content_kind": "news",
         "visual": "c-security",
-        "cover_key": "c-security",
+        "cover_key": "a-2026-11-26-nvidia-adversarial-image-toolcall",
         "interest_group": "agents-execution"
       },
       {
@@ -37,7 +37,7 @@
         "source_published_at": "2026-11-25",
         "content_kind": "news",
         "visual": "c-simulation",
-        "cover_key": "c-simulation",
+        "cover_key": "a-2026-11-26-xpeng-iron-turing",
         "interest_group": "people-ai"
       },
       {
@@ -51,7 +51,7 @@
         "source_published_at": "2026-11-24",
         "content_kind": "news",
         "visual": "c-creative",
-        "cover_key": "c-creative",
+        "cover_key": "a-2026-11-26-sensenova-u16-open-weights",
         "interest_group": "society-world"
       },
       {
@@ -65,7 +65,7 @@
         "source_published_at": "2026-11-24",
         "content_kind": "news",
         "visual": "c-knowledge",
-        "cover_key": "c-knowledge",
+        "cover_key": "a-2026-11-26-gpt6-protein-design",
         "interest_group": "society-world"
       }
     ]
