@@ -23,6 +23,11 @@
           "url": "blogs/2026-11-02-training-data-monitoring.html",
           "relation": "comparison",
           "reason": "OSWorld의 실행 중 감독과 학습 자료의 행별 검사·학습 후 행동 평가를 나란히 읽으며, 각 단계가 확인하는 대상을 구분합니다."
+        },
+        {
+          "url": "blogs/2026-11-28-wwt-agent-blackfriday.html",
+          "relation": "follow_up",
+          "reason": "앞 글가 실행 중·학습 단계의 감독을 비교했다면, 이 글은 같은 질문을 실행 전 권한·지시 설계의 근거로 옮겨 놓은 다음 노드다."
         }
       ]
     },
@@ -103,6 +108,11 @@
           "url": "blogs/2026-11-16-read-and-ignore-public-service.html",
           "relation": "comparison",
           "reason": "경로의 직전 글은 개발자 11명 관찰로 사람이 지시와 확인에 쓰는 시간을 측정했고, 이 연구는 같은 질문을 에이전트의 산출 행동과 지시문 구체성에서 측정한다."
+        },
+        {
+          "url": "blogs/2026-11-28-krafton-raon-1-mini.html",
+          "relation": "comparison",
+          "reason": "도구호출을 명시적으로 지원하는 30B급 오픈웨이트의 등장은, 어떤 작업을 어디까지 모델에 위임할 수 있는지 묻는 기존 질문의 조건을 바꾸는 비교할 글다."
         }
       ]
     },
@@ -168,6 +178,11 @@
           "url": "blogs/2026-11-26-nvidia-adversarial-image-toolcall.html",
           "relation": "comparison",
           "reason": "앞 글(VP≠VNP 증명 해설)이 형식 검증이 보장하지 않는 것(문장 충실성)을 다뤘다면, 이 글은 벤더가 직접 공개한 시연이 확인한 것(21/21 재현·실행 전 경로)과 확인하지 않은 것(다른 모델·원격 전달·비가시성·성공률)의 경계를 같은 '무엇을 시험했나' 축에서 다룬 다음 비교할 글다."
+        },
+        {
+          "url": "blogs/2026-11-28-anthropic-api-rust.html",
+          "relation": "comparison",
+          "reason": "실제 시스템의 응답을 정답 기준으로 삼아 두 구현의 차이를 잡은 절차는, 무엇을 근거로 무엇을 확인했다고 말할 수 있는지 묻는 기존 질문의 비교할 글다."
         }
       ]
     },
@@ -208,6 +223,11 @@
           "url": "blogs/2026-11-15-frontier-ai-lawsuit.html",
           "relation": "comparison",
           "reason": "기존 경로의 마지막 글은 기업의 자발적 약정과 연례 공개 절차를 다뤘고, 이 글은 같은 대상(프런티어 개발 관행)을 기존 불공정경쟁법을 통한 사법적 강제로 다룬 비교다. 판결이 없어 집행 근거로 확정할 수 없다."
+        },
+        {
+          "url": "blogs/2026-11-28-japan-ai-law-penalty.html",
+          "relation": "follow_up",
+          "reason": "AI 안전 약속이 어떻게 지켜지는지 묻던 기존 노드에, 보고 의무 불이행에 벌칙을 얹으려는 국가 제재의 실제 범위를 더하는 다음 노드다."
         }
       ]
     },
@@ -228,6 +248,11 @@
           "url": "blogs/2026-11-02-trust-after-error-briefing.html",
           "relation": "comparison",
           "reason": "기존 글은 소비자의 이용·지출을, 이 연구는 참여자의 자기보고 신뢰와 가상 학업 상황의 재사용 의향을 측정합니다."
+        },
+        {
+          "url": "blogs/2026-11-28-nec-notion-ai-leak.html",
+          "relation": "follow_up",
+          "reason": "AI 어시스턴트에 무엇을 입력해도 되는지 묻던 기존 노드에, 입력이 서비스 회사 바깥의 위탁 계층까지 거친다는 실제 사고 근거를 더하는 다음 노드다."
         }
       ]
     }

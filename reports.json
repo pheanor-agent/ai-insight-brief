@@ -1,5 +1,92 @@
 [
   {
+    "date": "2026-11-28",
+    "url": "2026-11-28-daily.html",
+    "title": "2026년 11월 28일 AI 브리프",
+    "status": "publication_candidate_not_published",
+    "timezone": "Asia/Seoul",
+    "updated": null,
+    "topics": [
+      "NEC 직원의 노션 AI 입력 311건이 새어나갔을 수 있다고 한다, 그 텍스트는 어디를 거쳐 나갔을까?",
+      "WWT가 AI 쇼핑객에게 도난을 허락했더니, 96명 중 81명은 왜 물건을 두고 나왔을까?",
+      "Anthropic이 주 API를 Rust로 갈아탔다, 서비스를 한 번도 멈추지 않고 어떻게 끝냈을까?",
+      "PUBG의 크래프톤이 오픈웨이트 모델을 내놓았는데, 20GiB로 256K 토큰은 어떻게 버틸까?",
+      "일본이 AI법 개정에 벌칙을 얹으려 한다, 사고를 보고하지 않는 제공자는 어디까지 책임지게 될까?"
+    ],
+    "explainers": [
+      {
+        "url": "blogs/2026-11-28-nec-notion-ai-leak.html",
+        "title": "NEC 직원의 노션 AI 입력 311건이 새어나갔을 수 있다고 한다, 그 텍스트는 어디를 거쳐 나갔을까?",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://jpn.nec.com/news/info/20261127.html",
+        "source_label": "NEC 공식 공지",
+        "source_published_at": "2026-11-27",
+        "content_kind": "news",
+        "visual": "c-security",
+        "cover_key": "c-security",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-28-wwt-agent-blackfriday.html",
+        "title": "WWT가 AI 쇼핑객에게 도난을 허락했더니, 96명 중 81명은 왜 물건을 두고 나왔을까?",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://fortune.com/2026/11/26/black-friday-ai-agents-simulation-adam-dumey/",
+        "source_label": "Fortune 기고(WWT Adam Dumey)",
+        "source_published_at": "2026-11-26",
+        "content_kind": "news",
+        "visual": "c-simulation",
+        "cover_key": "c-simulation",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-28-anthropic-api-rust.html",
+        "title": "Anthropic이 주 API를 Rust로 갈아탔다, 서비스를 한 번도 멈추지 않고 어떻게 끝냈을까?",
+        "writer": "한유리",
+        "author_url": "editorial-room.html#yuri",
+        "fictional_writer": true,
+        "source_url": "https://www.anthropic.com/research/migrating-api-to-rust",
+        "source_label": "Anthropic 공식 블로그",
+        "source_published_at": "2026-11-25",
+        "content_kind": "news",
+        "visual": "c-agent-tools",
+        "cover_key": "c-agent-tools",
+        "interest_group": "agents-execution"
+      },
+      {
+        "url": "blogs/2026-11-28-krafton-raon-1-mini.html",
+        "title": "PUBG의 크래프톤이 오픈웨이트 모델을 내놓았는데, 20GiB로 256K 토큰은 어떻게 버틸까?",
+        "writer": "정도윤",
+        "author_url": "editorial-room.html#doyun",
+        "fictional_writer": true,
+        "source_url": "https://huggingface.co/KRAFTON/Raon-1-mini",
+        "source_label": "Hugging Face 모델 카드",
+        "source_published_at": "2026-11-24",
+        "content_kind": "news",
+        "visual": "c-knowledge",
+        "cover_key": "c-knowledge",
+        "interest_group": "people-ai"
+      },
+      {
+        "url": "blogs/2026-11-28-japan-ai-law-penalty.html",
+        "title": "일본이 AI법 개정에 벌칙을 얹으려 한다, 사고를 보고하지 않는 제공자는 어디까지 책임지게 될까?",
+        "writer": "윤서진",
+        "author_url": "editorial-room.html#seojin",
+        "fictional_writer": true,
+        "source_url": "https://jen.jiji.com/japan/politics/2026112701042/",
+        "source_label": "Jiji Press",
+        "source_published_at": "2026-11-27",
+        "content_kind": "news",
+        "visual": "c-oversight",
+        "cover_key": "c-oversight",
+        "interest_group": "society-world"
+      }
+    ]
+  },
+  {
     "date": "2026-11-26",
     "url": "2026-11-26-daily.html",
     "title": "2026년 11월 26일 AI 브리프",
